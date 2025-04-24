@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
+  # viewer:
+  #   image: node:22-alpine
+  #   ports:
+  #     - "3000:5173"
+  #   volumes:
+  #     - ./viewer:/app
+  #   working_dir: /app
+  #   environment:
+  #     - NODE_ENV=development
+  #   depends_on:
+  #     - api 
+  #   command: yarn dev --host 0.0.0.0 --port 5173
