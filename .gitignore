@@ -4,8 +4,7 @@ data/
 static/replays/
 
 # Fichiers spécifiques au projet
-*.replay
-*.json
+
 !package.json
 !tsconfig.json
 !tsconfig.*.json
