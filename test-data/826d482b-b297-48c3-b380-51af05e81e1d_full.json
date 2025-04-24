@@ -1,0 +1,6240 @@
+{
+  "header_size": 8963,
+  "header_crc": 2618236390,
+  "major_version": 868,
+  "minor_version": 32,
+  "net_version": 10,
+  "game_type": "TAGame.Replay_Soccar_TA",
+  "properties": {
+    "TeamSize": 4,
+    "UnfairTeamSize": 1,
+    "Team0Score": 1,
+    "Team1Score": 5,
+    "TotalSecondsPlayed": 304.67136,
+    "MatchStartEpoch": "1745355584",
+    "WinningTeam": 1,
+    "Goals": [
+      {
+        "frame": 2560,
+        "PlayerName": "〇〢Kartal ッ",
+        "PlayerTeam": 1
+      },
+      {
+        "frame": 2986,
+        "PlayerName": "Myke38000",
+        "PlayerTeam": 1
+      },
+      {
+        "frame": 4714,
+        "PlayerName": "〇〢Kartal ッ",
+        "PlayerTeam": 1
+      },
+      {
+        "frame": 6341,
+        "PlayerName": "〇〢Kartal ッ",
+        "PlayerTeam": 1
+      },
+      {
+        "frame": 8030,
+        "PlayerName": "MaybeFyr",
+        "PlayerTeam": 0
+      },
+      {
+        "frame": 8504,
+        "PlayerName": "〇〢Kartal ッ",
+        "PlayerTeam": 1
+      }
+    ],
+    "HighLights": [
+      {
+        "frame": 2002,
+        "CarName": "Car_TA_266",
+        "BallName": "Ball_TA_62",
+        "GoalActorName": "None"
+      },
+      {
+        "frame": 2560,
+        "CarName": "Car_TA_268",
+        "BallName": "Ball_TA_62",
+        "GoalActorName": "GoalVolume_TA_0"
+      },
+      {
+        "frame": 2986,
+        "CarName": "Car_TA_278",
+        "BallName": "Ball_TA_62",
+        "GoalActorName": "GoalVolume_TA_0"
+      },
+      {
+        "frame": 3950,
+        "CarName": "Car_TA_285",
+        "BallName": "Ball_TA_66",
+        "GoalActorName": "None"
+      },
+      {
+        "frame": 4714,
+        "CarName": "Car_TA_285",
+        "BallName": "Ball_TA_66",
+        "GoalActorName": "GoalVolume_TA_0"
+      },
+      {
+        "frame": 6341,
+        "CarName": "Car_TA_295",
+        "BallName": "Ball_TA_66",
+        "GoalActorName": "GoalVolume_TA_0"
+      },
+      {
+        "frame": 8030,
+        "CarName": "Car_TA_302",
+        "BallName": "Ball_TA_66",
+        "GoalActorName": "GoalVolume_TA_4"
+      },
+      {
+        "frame": 8504,
+        "CarName": "Car_TA_313",
+        "BallName": "Ball_TA_66",
+        "GoalActorName": "GoalVolume_TA_0"
+      }
+    ],
+    "PlayerStats": [
+      {
+        "PlayerID": {
+          "name": "UniqueNetId",
+          "fields": {
+            "Uid": "0",
+            "NpId": {
+              "name": "SceNpId",
+              "fields": {
+                "Handle": {
+                  "name": "SceNpOnlineId",
+                  "fields": {
+                    "Data": "0",
+                    "Data": "0"
+                  }
+                },
+                "Opt": "0",
+                "Reserved": "0"
+              }
+            },
+            "EpicAccountId": "29e7c51070b7424ea62d46bcd1aa43b0",
+            "Platform": {
+              "kind": "OnlinePlatform",
+              "value": "OnlinePlatform_Epic"
+            }
+          }
+        },
+        "Name": "MaybeFyr",
+        "Platform": {
+          "kind": "OnlinePlatform",
+          "value": "OnlinePlatform_Epic"
+        },
+        "OnlineID": "0",
+        "Team": 0,
+        "Score": 244,
+        "Goals": 1,
+        "Assists": 0,
+        "Saves": 0,
+        "Shots": 1,
+        "bBot": false
+      },
+      {
+        "PlayerID": {
+          "name": "UniqueNetId",
+          "fields": {
+            "Uid": "0",
+            "NpId": {
+              "name": "SceNpId",
+              "fields": {
+                "Handle": {
+                  "name": "SceNpOnlineId",
+                  "fields": {
+                    "Data": "0",
+                    "Data": "0"
+                  }
+                },
+                "Opt": "0",
+                "Reserved": "0"
+              }
+            },
+            "EpicAccountId": "7dc185304e8742c59121509ff31f0a80",
+            "Platform": {
+              "kind": "OnlinePlatform",
+              "value": "OnlinePlatform_Epic"
+            }
+          }
+        },
+        "Name": "Myke38000",
+        "Platform": {
+          "kind": "OnlinePlatform",
+          "value": "OnlinePlatform_Epic"
+        },
+        "OnlineID": "0",
+        "Team": 1,
+        "Score": 226,
+        "Goals": 1,
+        "Assists": 1,
+        "Saves": 0,
+        "Shots": 1,
+        "bBot": false
+      },
+      {
+        "PlayerID": {
+          "name": "UniqueNetId",
+          "fields": {
+            "Uid": "0",
+            "NpId": {
+              "name": "SceNpId",
+              "fields": {
+                "Handle": {
+                  "name": "SceNpOnlineId",
+                  "fields": {
+                    "Data": "0",
+                    "Data": "0"
+                  }
+                },
+                "Opt": "0",
+                "Reserved": "0"
+              }
+            },
+            "EpicAccountId": "dde322012fa74da5bd6a2cd44af74cb9",
+            "Platform": {
+              "kind": "OnlinePlatform",
+              "value": "OnlinePlatform_Epic"
+            }
+          }
+        },
+        "Name": "Marlbucky",
+        "Platform": {
+          "kind": "OnlinePlatform",
+          "value": "OnlinePlatform_Epic"
+        },
+        "OnlineID": "0",
+        "Team": 0,
+        "Score": 208,
+        "Goals": 0,
+        "Assists": 0,
+        "Saves": 1,
+        "Shots": 1,
+        "bBot": false
+      },
+      {
+        "PlayerID": {
+          "name": "UniqueNetId",
+          "fields": {
+            "Uid": "0",
+            "NpId": {
+              "name": "SceNpId",
+              "fields": {
+                "Handle": {
+                  "name": "SceNpOnlineId",
+                  "fields": {
+                    "Data": "0",
+                    "Data": "0"
+                  }
+                },
+                "Opt": "0",
+                "Reserved": "0"
+              }
+            },
+            "EpicAccountId": "59ec3fbebb444db38e09448ed2511508",
+            "Platform": {
+              "kind": "OnlinePlatform",
+              "value": "OnlinePlatform_Epic"
+            }
+          }
+        },
+        "Name": "〇〢Kartal ッ",
+        "Platform": {
+          "kind": "OnlinePlatform",
+          "value": "OnlinePlatform_Epic"
+        },
+        "OnlineID": "0",
+        "Team": 1,
+        "Score": 841,
+        "Goals": 4,
+        "Assists": 1,
+        "Saves": 1,
+        "Shots": 6,
+        "bBot": false
+      }
+    ],
+    "ReplayVersion": 8,
+    "ReplayLastSaveVersion": 8,
+    "GameVersion": 30,
+    "BuildID": 1512972997,
+    "Changelist": 478365,
+    "BuildVersion": "250319.60456.478365",
+    "ReserveMegabytes": 4,
+    "RecordFPS": 30.0,
+    "KeyframeDelay": 10.0,
+    "MaxChannels": 2047,
+    "MaxReplaySizeMB": 10,
+    "Id": "BDB64B94415B1D73D8F4C3ACA2051DC4",
+    "MatchGuid": "B7B366B011F01FBCD42E249AA9813356",
+    "MapName": "UF_Day_P",
+    "Date": "2025-04-22 23-06-40",
+    "NumFrames": 10505,
+    "MatchType": "Private"
+  },
+  "content_size": 1177856,
+  "content_crc": 835320064,
+  "network_frames": {
+    "frames": [
+      {
+        "time": 10.913536,
+        "delta": 0.0,
+        "new_actors": [
+          {
+            "actor_id": 0,
+            "name_id": 0,
+            "object_id": 72,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 93
+              },
+              "rotation": {
+                "yaw": null,
+                "pitch": null,
+                "roll": null
+              }
+            }
+          },
+          {
+            "actor_id": 1,
+            "name_id": 1,
+            "object_id": 96,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 2,
+            "name_id": 2,
+            "object_id": 98,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 3,
+            "name_id": 3,
+            "object_id": 201,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 4,
+            "name_id": 4,
+            "object_id": 216,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 5,
+            "name_id": 5,
+            "object_id": 216,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 6,
+            "name_id": 6,
+            "object_id": 269,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 7,
+            "name_id": 7,
+            "object_id": 283,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 8,
+            "name_id": 8,
+            "object_id": 201,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 9,
+            "name_id": 9,
+            "object_id": 216,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 10,
+            "name_id": 10,
+            "object_id": 284,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 11,
+            "name_id": 11,
+            "object_id": 201,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 12,
+            "name_id": 12,
+            "object_id": 201,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 13,
+            "name_id": 13,
+            "object_id": 216,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 14,
+            "name_id": 14,
+            "object_id": 315,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": -3840,
+                "z": 17
+              },
+              "rotation": {
+                "yaw": -1,
+                "pitch": 64,
+                "roll": null
+              }
+            }
+          },
+          {
+            "actor_id": 15,
+            "name_id": 15,
+            "object_id": 337,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 16,
+            "name_id": 16,
+            "object_id": 340,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 17,
+            "name_id": 17,
+            "object_id": 344,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 18,
+            "name_id": 18,
+            "object_id": 346,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 19,
+            "name_id": 19,
+            "object_id": 349,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 20,
+            "name_id": 20,
+            "object_id": 354,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 21,
+            "name_id": 21,
+            "object_id": 315,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": -3840,
+                "z": 17
+              },
+              "rotation": {
+                "yaw": -1,
+                "pitch": 64,
+                "roll": null
+              }
+            }
+          },
+          {
+            "actor_id": 22,
+            "name_id": 22,
+            "object_id": 340,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 23,
+            "name_id": 23,
+            "object_id": 349,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 24,
+            "name_id": 24,
+            "object_id": 344,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 25,
+            "name_id": 25,
+            "object_id": 346,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 26,
+            "name_id": 26,
+            "object_id": 337,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": -3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 27,
+            "name_id": 27,
+            "object_id": 354,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 28,
+            "name_id": 28,
+            "object_id": 315,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": 3840,
+                "z": 17
+              },
+              "rotation": {
+                "yaw": -1,
+                "pitch": -64,
+                "roll": null
+              }
+            }
+          },
+          {
+            "actor_id": 29,
+            "name_id": 29,
+            "object_id": 337,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 30,
+            "name_id": 30,
+            "object_id": 340,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 31,
+            "name_id": 31,
+            "object_id": 344,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 32,
+            "name_id": 32,
+            "object_id": 349,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 33,
+            "name_id": 33,
+            "object_id": 346,
+            "initial_trajectory": {
+              "location": {
+                "x": 256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 34,
+            "name_id": 34,
+            "object_id": 354,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 35,
+            "name_id": 35,
+            "object_id": 315,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": 3840,
+                "z": 17
+              },
+              "rotation": {
+                "yaw": -1,
+                "pitch": -64,
+                "roll": null
+              }
+            }
+          },
+          {
+            "actor_id": 36,
+            "name_id": 36,
+            "object_id": 346,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 37,
+            "name_id": 37,
+            "object_id": 344,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 38,
+            "name_id": 38,
+            "object_id": 337,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 39,
+            "name_id": 39,
+            "object_id": 340,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 40,
+            "name_id": 40,
+            "object_id": 349,
+            "initial_trajectory": {
+              "location": {
+                "x": -256,
+                "y": 3840,
+                "z": 36
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 41,
+            "name_id": 41,
+            "object_id": 354,
+            "initial_trajectory": {
+              "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 42,
+            "name_id": 42,
+            "object_id": 361,
+            "initial_trajectory": {
+              "location": null,
+              "rotation": null
+            }
+          },
+          {
+            "actor_id": 43,
+            "name_id": 43,
+            "object_id": 365,
+            "initial_trajectory": {
+              "location": null,
+              "rotation": null
+            }
+          }
+        ],
+        "deleted_actors": [],
+        "updated_actors": [
+          {
+            "actor_id": 0,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": true,
+                "location": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 92.75
+                },
+                "rotation": {
+                  "x": 0.0000026973983,
+                  "y": 0.0000026973983,
+                  "z": 0.0000026973983,
+                  "w": 1.0
+                },
+                "linear_velocity": null,
+                "angular_velocity": null
+              }
+            }
+          },
+          {
+            "actor_id": 0,
+            "stream_id": 50,
+            "object_id": 55,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 6
+              }
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 30,
+            "object_id": 85,
+            "attribute": {
+              "ActiveActor": {
+                "active": false,
+                "actor": 366
+              }
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 21,
+            "object_id": 76,
+            "attribute": {
+              "String": "EU9-0054D6068B4B0629A-Apex3"
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 31,
+            "object_id": 87,
+            "attribute": {
+              "String": "B7B366B011F01FBCD42E249AA9813356"
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 32,
+            "object_id": 88,
+            "attribute": {
+              "Boolean": true
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 33,
+            "object_id": 89,
+            "attribute": {
+              "String": "4865857"
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 34,
+            "object_id": 90,
+            "attribute": {
+              "Reservation": {
+                "number": 0,
+                "unique_id": {
+                  "system_id": 11,
+                  "remote_id": {
+                    "Epic": "59ec3fbebb444db38e09448ed2511508"
+                  },
+                  "local_id": 0
+                },
+                "name": "〇〢Kartal ッ",
+                "unknown1": true,
+                "unknown2": true,
+                "unknown3": 0
+              }
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 34,
+            "object_id": 90,
+            "attribute": {
+              "Reservation": {
+                "number": 1,
+                "unique_id": {
+                  "system_id": 11,
+                  "remote_id": {
+                    "Epic": "29e7c51070b7424ea62d46bcd1aa43b0"
+                  },
+                  "local_id": 0
+                },
+                "name": "MaybeFyr",
+                "unknown1": true,
+                "unknown2": true,
+                "unknown3": 0
+              }
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 34,
+            "object_id": 90,
+            "attribute": {
+              "Reservation": {
+                "number": 2,
+                "unique_id": {
+                  "system_id": 11,
+                  "remote_id": {
+                    "Epic": "7dc185304e8742c59121509ff31f0a80"
+                  },
+                  "local_id": 0
+                },
+                "name": "Myke38000",
+                "unknown1": true,
+                "unknown2": true,
+                "unknown3": 0
+              }
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 34,
+            "object_id": 90,
+            "attribute": {
+              "Reservation": {
+                "number": 3,
+                "unique_id": {
+                  "system_id": 11,
+                  "remote_id": {
+                    "Epic": "dde322012fa74da5bd6a2cd44af74cb9"
+                  },
+                  "local_id": 0
+                },
+                "name": "Marlbucky",
+                "unknown1": true,
+                "unknown2": true,
+                "unknown3": 0
+              }
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 35,
+            "object_id": 91,
+            "attribute": {
+              "String": "EU"
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 36,
+            "object_id": 92,
+            "attribute": {
+              "Int": -1
+            }
+          },
+          {
+            "actor_id": 1,
+            "stream_id": 37,
+            "object_id": 93,
+            "attribute": {
+              "Int": 6
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 35,
+            "object_id": 114,
+            "attribute": {
+              "Byte": 3
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 34,
+            "object_id": 113,
+            "attribute": {
+              "String": "Marlbucky"
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 32,
+            "object_id": 111,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 7
+              }
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 21,
+            "object_id": 100,
+            "attribute": {
+              "UniqueId": {
+                "system_id": 11,
+                "remote_id": {
+                  "Epic": "dde322012fa74da5bd6a2cd44af74cb9"
+                },
+                "local_id": 0
+              }
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 33,
+            "object_id": 112,
+            "attribute": {
+              "Int": 334
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 51,
+            "object_id": 132,
+            "attribute": {
+              "Int": 1
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 52,
+            "object_id": 133,
+            "attribute": {
+              "Int64": "23065640"
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 59,
+            "object_id": 140,
+            "attribute": {
+              "Float": 1.25
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 61,
+            "object_id": 142,
+            "attribute": {
+              "Int": 44
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 62,
+            "object_id": 143,
+            "attribute": {
+              "PartyLeader": {
+                "system_id": 11,
+                "remote_id": {
+                  "Epic": "59ec3fbebb444db38e09448ed2511508"
+                },
+                "local_id": 0
+              }
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 67,
+            "object_id": 148,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 5
+              }
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 68,
+            "object_id": 149,
+            "attribute": {
+              "LoadoutsOnline": {
+                "blue": [
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 8
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 1555190
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 880639
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 369,
+                      "value": {
+                        "Title": "Power_of_Friendship"
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  []
+                ],
+                "orange": [
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 8
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 1555190
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 880639
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 369,
+                      "value": {
+                        "Title": "Power_of_Friendship"
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  []
+                ],
+                "unknown1": true,
+                "unknown2": false
+              }
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 69,
+            "object_id": 150,
+            "attribute": {
+              "TeamLoadout": {
+                "blue": {
+                  "version": 28,
+                  "body": 4284,
+                  "decal": 8877,
+                  "wheels": 8882,
+                  "rocket_trail": 32,
+                  "antenna": 0,
+                  "topper": 0,
+                  "unknown1": 0,
+                  "unknown2": 0,
+                  "engine_audio": 10379,
+                  "trail": 2047,
+                  "goal_explosion": 4118,
+                  "banner": 2580,
+                  "product_id": 11515
+                },
+                "orange": {
+                  "version": 28,
+                  "body": 4284,
+                  "decal": 8877,
+                  "wheels": 8882,
+                  "rocket_trail": 32,
+                  "antenna": 0,
+                  "topper": 0,
+                  "unknown1": 0,
+                  "unknown2": 0,
+                  "engine_audio": 10379,
+                  "trail": 2047,
+                  "goal_explosion": 4118,
+                  "banner": 2580,
+                  "product_id": 11515
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 72,
+            "object_id": 153,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 6
+              }
+            }
+          },
+          {
+            "actor_id": 3,
+            "stream_id": 75,
+            "object_id": 156,
+            "attribute": {
+              "Boolean": true
+            }
+          },
+          {
+            "actor_id": 4,
+            "stream_id": 20,
+            "object_id": 202,
+            "attribute": {
+              "Byte": 128
+            }
+          },
+          {
+            "actor_id": 4,
+            "stream_id": 21,
+            "object_id": 203,
+            "attribute": {
+              "Byte": 128
+            }
+          },
+          {
+            "actor_id": 4,
+            "stream_id": 24,
+            "object_id": 206,
+            "attribute": {
+              "Boolean": true
+            }
+          },
+          {
+            "actor_id": 4,
+            "stream_id": 25,
+            "object_id": 207,
+            "attribute": {
+              "CamSettings": {
+                "fov": 110.0,
+                "height": 100.0,
+                "angle": -4.0,
+                "distance": 260.0,
+                "stiffness": 0.65,
+                "swivel": 4.2,
+                "transition": 1.0
+              }
+            }
+          },
+          {
+            "actor_id": 4,
+            "stream_id": 26,
+            "object_id": 208,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 11
+              }
+            }
+          },
+          {
+            "actor_id": 5,
+            "stream_id": 20,
+            "object_id": 202,
+            "attribute": {
+              "Byte": 128
+            }
+          },
+          {
+            "actor_id": 5,
+            "stream_id": 21,
+            "object_id": 203,
+            "attribute": {
+              "Byte": 128
+            }
+          },
+          {
+            "actor_id": 5,
+            "stream_id": 24,
+            "object_id": 206,
+            "attribute": {
+              "Boolean": true
+            }
+          },
+          {
+            "actor_id": 5,
+            "stream_id": 25,
+            "object_id": 207,
+            "attribute": {
+              "CamSettings": {
+                "fov": 110.0,
+                "height": 100.0,
+                "angle": -4.0,
+                "distance": 260.0,
+                "stiffness": 0.45,
+                "swivel": 4.3,
+                "transition": 1.3
+              }
+            }
+          },
+          {
+            "actor_id": 5,
+            "stream_id": 26,
+            "object_id": 208,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 3
+              }
+            }
+          },
+          {
+            "actor_id": 6,
+            "stream_id": 21,
+            "object_id": 218,
+            "attribute": {
+              "Int64": "1745355584"
+            }
+          },
+          {
+            "actor_id": 6,
+            "stream_id": 27,
+            "object_id": 224,
+            "attribute": {
+              "Int": 45
+            }
+          },
+          {
+            "actor_id": 6,
+            "stream_id": 30,
+            "object_id": 227,
+            "attribute": {
+              "Int": 1065353216
+            }
+          },
+          {
+            "actor_id": 6,
+            "stream_id": 37,
+            "object_id": 234,
+            "attribute": {
+              "ActiveActor": {
+                "active": false,
+                "actor": 370
+              }
+            }
+          },
+          {
+            "actor_id": 6,
+            "stream_id": 41,
+            "object_id": 239,
+            "attribute": {
+              "Int": 4
+            }
+          },
+          {
+            "actor_id": 6,
+            "stream_id": 53,
+            "object_id": 252,
+            "attribute": {
+              "Int": 300
+            }
+          },
+          {
+            "actor_id": 7,
+            "stream_id": 24,
+            "object_id": 275,
+            "attribute": {
+              "ClubColors": {
+                "blue_flag": false,
+                "blue_color": 22,
+                "orange_flag": false,
+                "orange_color": 192
+              }
+            }
+          },
+          {
+            "actor_id": 7,
+            "stream_id": 27,
+            "object_id": 278,
+            "attribute": {
+              "String": "SEGRSEZRGERGTER"
+            }
+          },
+          {
+            "actor_id": 7,
+            "stream_id": 28,
+            "object_id": 279,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 6
+              }
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 35,
+            "object_id": 114,
+            "attribute": {
+              "Byte": 2
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 34,
+            "object_id": 113,
+            "attribute": {
+              "String": "MaybeFyr"
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 32,
+            "object_id": 111,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 7
+              }
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 21,
+            "object_id": 100,
+            "attribute": {
+              "UniqueId": {
+                "system_id": 11,
+                "remote_id": {
+                  "Epic": "29e7c51070b7424ea62d46bcd1aa43b0"
+                },
+                "local_id": 0
+              }
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 33,
+            "object_id": 112,
+            "attribute": {
+              "Int": 335
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 51,
+            "object_id": 132,
+            "attribute": {
+              "Int": 2
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 52,
+            "object_id": 133,
+            "attribute": {
+              "Int64": "23065640"
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 61,
+            "object_id": 142,
+            "attribute": {
+              "Int": 46
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 62,
+            "object_id": 143,
+            "attribute": {
+              "PartyLeader": {
+                "system_id": 11,
+                "remote_id": {
+                  "Epic": "59ec3fbebb444db38e09448ed2511508"
+                },
+                "local_id": 0
+              }
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 67,
+            "object_id": 148,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 9
+              }
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 68,
+            "object_id": 149,
+            "attribute": {
+              "LoadoutsOnline": {
+                "blue": [
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 12
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 4282581145
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 0
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 369,
+                      "value": {
+                        "Title": "RP16_Fully_Flourished"
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  []
+                ],
+                "orange": [
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 12
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 4282581145
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 0
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 369,
+                      "value": {
+                        "Title": "RP16_Fully_Flourished"
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  []
+                ],
+                "unknown1": true,
+                "unknown2": false
+              }
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 69,
+            "object_id": 150,
+            "attribute": {
+              "TeamLoadout": {
+                "blue": {
+                  "version": 28,
+                  "body": 4284,
+                  "decal": 0,
+                  "wheels": 1502,
+                  "rocket_trail": 664,
+                  "antenna": 0,
+                  "topper": 0,
+                  "unknown1": 0,
+                  "unknown2": 0,
+                  "engine_audio": 1794,
+                  "trail": 8263,
+                  "goal_explosion": 10941,
+                  "banner": 11222,
+                  "product_id": 5687
+                },
+                "orange": {
+                  "version": 28,
+                  "body": 4284,
+                  "decal": 0,
+                  "wheels": 1564,
+                  "rocket_trail": 664,
+                  "antenna": 0,
+                  "topper": 0,
+                  "unknown1": 0,
+                  "unknown2": 0,
+                  "engine_audio": 1794,
+                  "trail": 8263,
+                  "goal_explosion": 10941,
+                  "banner": 11222,
+                  "product_id": 5687
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 8,
+            "stream_id": 72,
+            "object_id": 153,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 6
+              }
+            }
+          },
+          {
+            "actor_id": 9,
+            "stream_id": 20,
+            "object_id": 202,
+            "attribute": {
+              "Byte": 128
+            }
+          },
+          {
+            "actor_id": 9,
+            "stream_id": 21,
+            "object_id": 203,
+            "attribute": {
+              "Byte": 128
+            }
+          },
+          {
+            "actor_id": 9,
+            "stream_id": 24,
+            "object_id": 206,
+            "attribute": {
+              "Boolean": true
+            }
+          },
+          {
+            "actor_id": 9,
+            "stream_id": 25,
+            "object_id": 207,
+            "attribute": {
+              "CamSettings": {
+                "fov": 110.0,
+                "height": 100.0,
+                "angle": -4.0,
+                "distance": 260.0,
+                "stiffness": 0.65,
+                "swivel": 4.2,
+                "transition": 1.0
+              }
+            }
+          },
+          {
+            "actor_id": 9,
+            "stream_id": 26,
+            "object_id": 208,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 8
+              }
+            }
+          },
+          {
+            "actor_id": 10,
+            "stream_id": 24,
+            "object_id": 275,
+            "attribute": {
+              "ClubColors": {
+                "blue_flag": false,
+                "blue_color": 5,
+                "orange_flag": false,
+                "orange_color": 198
+              }
+            }
+          },
+          {
+            "actor_id": 10,
+            "stream_id": 27,
+            "object_id": 278,
+            "attribute": {
+              "String": "YRZYGRETYE"
+            }
+          },
+          {
+            "actor_id": 10,
+            "stream_id": 28,
+            "object_id": 279,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 6
+              }
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 35,
+            "object_id": 114,
+            "attribute": {
+              "Byte": 4
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 34,
+            "object_id": 113,
+            "attribute": {
+              "String": "Myke38000"
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 32,
+            "object_id": 111,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 10
+              }
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 21,
+            "object_id": 100,
+            "attribute": {
+              "UniqueId": {
+                "system_id": 11,
+                "remote_id": {
+                  "Epic": "7dc185304e8742c59121509ff31f0a80"
+                },
+                "local_id": 0
+              }
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 33,
+            "object_id": 112,
+            "attribute": {
+              "Int": 333
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 51,
+            "object_id": 132,
+            "attribute": {
+              "Int": 6
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 52,
+            "object_id": 133,
+            "attribute": {
+              "Int64": "23065640"
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 61,
+            "object_id": 142,
+            "attribute": {
+              "Int": 47
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 62,
+            "object_id": 143,
+            "attribute": {
+              "PartyLeader": {
+                "system_id": 11,
+                "remote_id": {
+                  "Epic": "59ec3fbebb444db38e09448ed2511508"
+                },
+                "local_id": 0
+              }
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 67,
+            "object_id": 148,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 4
+              }
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 68,
+            "object_id": 149,
+            "attribute": {
+              "LoadoutsOnline": {
+                "blue": [
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 12
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 1555190
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 0
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 369,
+                      "value": {
+                        "Title": "AutoTour_10_Platinum_1"
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  []
+                ],
+                "orange": [
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 12
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 3
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 1555190
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 0
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 369,
+                      "value": {
+                        "Title": "AutoTour_10_Platinum_1"
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  []
+                ],
+                "unknown1": true,
+                "unknown2": false
+              }
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 69,
+            "object_id": 150,
+            "attribute": {
+              "TeamLoadout": {
+                "blue": {
+                  "version": 28,
+                  "body": 4284,
+                  "decal": 4293,
+                  "wheels": 8937,
+                  "rocket_trail": 10157,
+                  "antenna": 0,
+                  "topper": 9125,
+                  "unknown1": 0,
+                  "unknown2": 0,
+                  "engine_audio": 9045,
+                  "trail": 9850,
+                  "goal_explosion": 8901,
+                  "banner": 2580,
+                  "product_id": 7715
+                },
+                "orange": {
+                  "version": 28,
+                  "body": 4284,
+                  "decal": 4293,
+                  "wheels": 8937,
+                  "rocket_trail": 10157,
+                  "antenna": 0,
+                  "topper": 9125,
+                  "unknown1": 0,
+                  "unknown2": 0,
+                  "engine_audio": 9045,
+                  "trail": 9850,
+                  "goal_explosion": 8901,
+                  "banner": 2580,
+                  "product_id": 7715
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 11,
+            "stream_id": 72,
+            "object_id": 153,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 6
+              }
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 35,
+            "object_id": 114,
+            "attribute": {
+              "Byte": 4
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 34,
+            "object_id": 113,
+            "attribute": {
+              "String": "〇〢Kartal ッ"
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 32,
+            "object_id": 111,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 10
+              }
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 21,
+            "object_id": 100,
+            "attribute": {
+              "UniqueId": {
+                "system_id": 11,
+                "remote_id": {
+                  "Epic": "59ec3fbebb444db38e09448ed2511508"
+                },
+                "local_id": 0
+              }
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 33,
+            "object_id": 112,
+            "attribute": {
+              "Int": 336
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 51,
+            "object_id": 132,
+            "attribute": {
+              "Int": 5
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 52,
+            "object_id": 133,
+            "attribute": {
+              "Int64": "23065640"
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 62,
+            "object_id": 143,
+            "attribute": {
+              "PartyLeader": {
+                "system_id": 11,
+                "remote_id": {
+                  "Epic": "59ec3fbebb444db38e09448ed2511508"
+                },
+                "local_id": 0
+              }
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 67,
+            "object_id": 148,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 13
+              }
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 68,
+            "object_id": 149,
+            "attribute": {
+              "LoadoutsOnline": {
+                "blue": [
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 12
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 12
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 3342211
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 0
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  []
+                ],
+                "orange": [
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 12
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 367,
+                      "value": {
+                        "NewPaint": 12
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 3342211
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [
+                    {
+                      "unknown": false,
+                      "object_ind": 368,
+                      "value": {
+                        "NewColor": 0
+                      }
+                    }
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  []
+                ],
+                "unknown1": true,
+                "unknown2": false
+              }
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 69,
+            "object_id": 150,
+            "attribute": {
+              "TeamLoadout": {
+                "blue": {
+                  "version": 28,
+                  "body": 4284,
+                  "decal": 4285,
+                  "wheels": 4384,
+                  "rocket_trail": 36,
+                  "antenna": 0,
+                  "topper": 0,
+                  "unknown1": 0,
+                  "unknown2": 0,
+                  "engine_audio": 4295,
+                  "trail": 5706,
+                  "goal_explosion": 9226,
+                  "banner": 9368,
+                  "product_id": 0
+                },
+                "orange": {
+                  "version": 28,
+                  "body": 4284,
+                  "decal": 4285,
+                  "wheels": 4384,
+                  "rocket_trail": 36,
+                  "antenna": 0,
+                  "topper": 0,
+                  "unknown1": 0,
+                  "unknown2": 0,
+                  "engine_audio": 4295,
+                  "trail": 5706,
+                  "goal_explosion": 9226,
+                  "banner": 9368,
+                  "product_id": 0
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 12,
+            "stream_id": 72,
+            "object_id": 153,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 6
+              }
+            }
+          },
+          {
+            "actor_id": 13,
+            "stream_id": 20,
+            "object_id": 202,
+            "attribute": {
+              "Byte": 128
+            }
+          },
+          {
+            "actor_id": 13,
+            "stream_id": 21,
+            "object_id": 203,
+            "attribute": {
+              "Byte": 128
+            }
+          },
+          {
+            "actor_id": 13,
+            "stream_id": 24,
+            "object_id": 206,
+            "attribute": {
+              "Boolean": true
+            }
+          },
+          {
+            "actor_id": 13,
+            "stream_id": 25,
+            "object_id": 207,
+            "attribute": {
+              "CamSettings": {
+                "fov": 110.0,
+                "height": 110.0,
+                "angle": -3.0,
+                "distance": 270.0,
+                "stiffness": 0.5,
+                "swivel": 5.8,
+                "transition": 1.3
+              }
+            }
+          },
+          {
+            "actor_id": 13,
+            "stream_id": 26,
+            "object_id": 208,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 12
+              }
+            }
+          },
+          {
+            "actor_id": 14,
+            "stream_id": 23,
+            "object_id": 25,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 3
+              }
+            }
+          },
+          {
+            "actor_id": 14,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": -256.0,
+                  "y": -3840.0,
+                  "z": 17.01
+                },
+                "rotation": {
+                  "x": -0.0033744453,
+                  "y": 0.0033744453,
+                  "z": 0.707096,
+                  "w": 0.70710146
+                },
+                "linear_velocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.27
+                },
+                "angular_velocity": {
+                  "x": -0.06,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 14,
+            "stream_id": 52,
+            "object_id": 289,
+            "attribute": {
+              "Byte": 255
+            }
+          },
+          {
+            "actor_id": 14,
+            "stream_id": 61,
+            "object_id": 299,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 20
+              }
+            }
+          },
+          {
+            "actor_id": 14,
+            "stream_id": 67,
+            "object_id": 305,
+            "attribute": {
+              "ClubColors": {
+                "blue_flag": false,
+                "blue_color": 22,
+                "orange_flag": false,
+                "orange_color": 192
+              }
+            }
+          },
+          {
+            "actor_id": 14,
+            "stream_id": 68,
+            "object_id": 306,
+            "attribute": {
+              "TeamPaint": {
+                "team": 0,
+                "primary_color": 19,
+                "accent_color": 52,
+                "primary_finish": 270,
+                "accent_finish": 270
+              }
+            }
+          },
+          {
+            "actor_id": 15,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 14
+              }
+            }
+          },
+          {
+            "actor_id": 15,
+            "stream_id": 24,
+            "object_id": 322,
+            "attribute": {
+              "ReplicatedBoost": {
+                "grant_count": 0,
+                "boost_amount": 85,
+                "unused1": 0,
+                "unused2": 0
+              }
+            }
+          },
+          {
+            "actor_id": 16,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 14
+              }
+            }
+          },
+          {
+            "actor_id": 17,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 14
+              }
+            }
+          },
+          {
+            "actor_id": 18,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 14
+              }
+            }
+          },
+          {
+            "actor_id": 19,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 14
+              }
+            }
+          },
+          {
+            "actor_id": 21,
+            "stream_id": 23,
+            "object_id": 25,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 8
+              }
+            }
+          },
+          {
+            "actor_id": 21,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": 256.0,
+                  "y": -3840.0,
+                  "z": 17.01
+                },
+                "rotation": {
+                  "x": -0.0033744453,
+                  "y": 0.0033744453,
+                  "z": 0.707096,
+                  "w": 0.70710146
+                },
+                "linear_velocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.27
+                },
+                "angular_velocity": {
+                  "x": -0.06,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 21,
+            "stream_id": 52,
+            "object_id": 289,
+            "attribute": {
+              "Byte": 255
+            }
+          },
+          {
+            "actor_id": 21,
+            "stream_id": 61,
+            "object_id": 299,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 27
+              }
+            }
+          },
+          {
+            "actor_id": 21,
+            "stream_id": 67,
+            "object_id": 305,
+            "attribute": {
+              "ClubColors": {
+                "blue_flag": false,
+                "blue_color": 22,
+                "orange_flag": false,
+                "orange_color": 192
+              }
+            }
+          },
+          {
+            "actor_id": 21,
+            "stream_id": 68,
+            "object_id": 306,
+            "attribute": {
+              "TeamPaint": {
+                "team": 0,
+                "primary_color": 63,
+                "accent_color": 69,
+                "primary_finish": 4127,
+                "accent_finish": 4127
+              }
+            }
+          },
+          {
+            "actor_id": 22,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 21
+              }
+            }
+          },
+          {
+            "actor_id": 23,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 21
+              }
+            }
+          },
+          {
+            "actor_id": 24,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 21
+              }
+            }
+          },
+          {
+            "actor_id": 25,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 21
+              }
+            }
+          },
+          {
+            "actor_id": 26,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 21
+              }
+            }
+          },
+          {
+            "actor_id": 26,
+            "stream_id": 24,
+            "object_id": 322,
+            "attribute": {
+              "ReplicatedBoost": {
+                "grant_count": 0,
+                "boost_amount": 85,
+                "unused1": 0,
+                "unused2": 0
+              }
+            }
+          },
+          {
+            "actor_id": 28,
+            "stream_id": 23,
+            "object_id": 25,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 12
+              }
+            }
+          },
+          {
+            "actor_id": 28,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": 256.0,
+                  "y": 3840.0,
+                  "z": 17.01
+                },
+                "rotation": {
+                  "x": -0.0033744453,
+                  "y": -0.0033744453,
+                  "z": 0.70710146,
+                  "w": -0.707096
+                },
+                "linear_velocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.27
+                },
+                "angular_velocity": {
+                  "x": 0.06,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 28,
+            "stream_id": 52,
+            "object_id": 289,
+            "attribute": {
+              "Byte": 255
+            }
+          },
+          {
+            "actor_id": 28,
+            "stream_id": 61,
+            "object_id": 299,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 34
+              }
+            }
+          },
+          {
+            "actor_id": 28,
+            "stream_id": 67,
+            "object_id": 305,
+            "attribute": {
+              "ClubColors": {
+                "blue_flag": false,
+                "blue_color": 5,
+                "orange_flag": false,
+                "orange_color": 198
+              }
+            }
+          },
+          {
+            "actor_id": 28,
+            "stream_id": 68,
+            "object_id": 306,
+            "attribute": {
+              "TeamPaint": {
+                "team": 1,
+                "primary_color": 55,
+                "accent_color": 0,
+                "primary_finish": 4127,
+                "accent_finish": 4127
+              }
+            }
+          },
+          {
+            "actor_id": 29,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 28
+              }
+            }
+          },
+          {
+            "actor_id": 29,
+            "stream_id": 24,
+            "object_id": 322,
+            "attribute": {
+              "ReplicatedBoost": {
+                "grant_count": 0,
+                "boost_amount": 85,
+                "unused1": 0,
+                "unused2": 0
+              }
+            }
+          },
+          {
+            "actor_id": 30,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 28
+              }
+            }
+          },
+          {
+            "actor_id": 31,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 28
+              }
+            }
+          },
+          {
+            "actor_id": 32,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 28
+              }
+            }
+          },
+          {
+            "actor_id": 33,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 28
+              }
+            }
+          },
+          {
+            "actor_id": 35,
+            "stream_id": 23,
+            "object_id": 25,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 11
+              }
+            }
+          },
+          {
+            "actor_id": 35,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": -256.0,
+                  "y": 3840.0,
+                  "z": 17.01
+                },
+                "rotation": {
+                  "x": -0.0033744453,
+                  "y": -0.0033744453,
+                  "z": 0.70710146,
+                  "w": -0.707096
+                },
+                "linear_velocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.27
+                },
+                "angular_velocity": {
+                  "x": 0.06,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 35,
+            "stream_id": 61,
+            "object_id": 299,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 41
+              }
+            }
+          },
+          {
+            "actor_id": 35,
+            "stream_id": 67,
+            "object_id": 305,
+            "attribute": {
+              "ClubColors": {
+                "blue_flag": false,
+                "blue_color": 5,
+                "orange_flag": false,
+                "orange_color": 198
+              }
+            }
+          },
+          {
+            "actor_id": 35,
+            "stream_id": 68,
+            "object_id": 306,
+            "attribute": {
+              "TeamPaint": {
+                "team": 1,
+                "primary_color": 58,
+                "accent_color": 60,
+                "primary_finish": 2497,
+                "accent_finish": 4127
+              }
+            }
+          },
+          {
+            "actor_id": 36,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 35
+              }
+            }
+          },
+          {
+            "actor_id": 37,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 35
+              }
+            }
+          },
+          {
+            "actor_id": 38,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 35
+              }
+            }
+          },
+          {
+            "actor_id": 38,
+            "stream_id": 24,
+            "object_id": 322,
+            "attribute": {
+              "ReplicatedBoost": {
+                "grant_count": 0,
+                "boost_amount": 85,
+                "unused1": 0,
+                "unused2": 0
+              }
+            }
+          },
+          {
+            "actor_id": 39,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 35
+              }
+            }
+          },
+          {
+            "actor_id": 40,
+            "stream_id": 21,
+            "object_id": 317,
+            "attribute": {
+              "ActiveActor": {
+                "active": true,
+                "actor": 35
+              }
+            }
+          },
+          {
+            "actor_id": 42,
+            "stream_id": 17,
+            "object_id": 18,
+            "attribute": {
+              "Float": 10.0
+            }
+          }
+        ]
+      },
+      {
+        "time": 11.0315,
+        "delta": 0.1179642,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": []
+      },
+      {
+        "time": 11.067092,
+        "delta": 0.0355925,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": []
+      },
+      {
+        "time": 11.100787,
+        "delta": 0.0336956,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": []
+      },
+      {
+        "time": 11.134317,
+        "delta": 0.0335305,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": []
+      },
+      {
+        "time": 11.169138,
+        "delta": 0.0348221,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": []
+      },
+      {
+        "time": 11.205108,
+        "delta": 0.0359698,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": []
+      },
+      {
+        "time": 11.238514,
+        "delta": 0.0334077,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": []
+      },
+      {
+        "time": 15.796866,
+        "delta": 0.036883898,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": [
+          {
+            "actor_id": 13,
+            "stream_id": 24,
+            "object_id": 206,
+            "attribute": {
+              "Boolean": false
+            }
+          },
+          {
+            "actor_id": 14,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": -296.43,
+                  "y": -3295.73,
+                  "z": 17.01
+                },
+                "rotation": {
+                  "x": -0.002451935,
+                  "y": 0.004091953,
+                  "z": 0.5129257,
+                  "w": 0.8584198
+                },
+                "linear_velocity": {
+                  "x": 449.63,
+                  "y": 954.76,
+                  "z": 0.29
+                },
+                "angular_velocity": {
+                  "x": -0.01,
+                  "y": 0.0,
+                  "z": -237.75
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 14,
+            "stream_id": 51,
+            "object_id": 288,
+            "attribute": {
+              "Byte": 128
+            }
+          },
+          {
+            "actor_id": 28,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": 702.83,
+                  "y": 3444.08,
+                  "z": 17.01
+                },
+                "rotation": {
+                  "x": 0.00071481057,
+                  "y": 0.004728539,
+                  "z": -0.13948031,
+                  "w": 0.9902133
+                },
+                "linear_velocity": {
+                  "x": 1270.6,
+                  "y": -433.94,
+                  "z": 0.05
+                },
+                "angular_velocity": {
+                  "x": -0.1,
+                  "y": 0.03,
+                  "z": 208.4
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 28,
+            "stream_id": 51,
+            "object_id": 288,
+            "attribute": {
+              "Byte": 248
+            }
+          }
+        ]
+      },
+      {
+        "time": 405.33447,
+        "delta": 0.0374441,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": [
+          {
+            "actor_id": 206,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": -683.71,
+                  "y": 4412.38,
+                  "z": 21.34
+                },
+                "rotation": {
+                  "x": 0.013878198,
+                  "y": 0.0033312868,
+                  "z": -0.39007497,
+                  "w": 0.9206725
+                },
+                "linear_velocity": {
+                  "x": 1350.16,
+                  "y": -1410.03,
+                  "z": 306.71
+                },
+                "angular_velocity": {
+                  "x": -19.89,
+                  "y": 4.7,
+                  "z": 100.26
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 206,
+            "stream_id": 51,
+            "object_id": 288,
+            "attribute": {
+              "Byte": 223
+            }
+          },
+          {
+            "actor_id": 204,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": -630.44,
+                  "y": 4201.14,
+                  "z": 96.98
+                },
+                "rotation": {
+                  "x": 0.1807884,
+                  "y": 0.9599095,
+                  "z": 0.01755745,
+                  "w": 0.21349722
+                },
+                "linear_velocity": {
+                  "x": 1313.91,
+                  "y": -1836.62,
+                  "z": -120.68
+                },
+                "angular_velocity": {
+                  "x": 163.39,
+                  "y": -277.33,
+                  "z": 296.15
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 202,
+            "stream_id": 22,
+            "object_id": 318,
+            "attribute": {
+              "Byte": 29
+            }
+          },
+          {
+            "actor_id": 16,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": -749.26,
+                  "y": 3994.41,
+                  "z": 17.02
+                },
+                "rotation": {
+                  "x": -0.0020689045,
+                  "y": 0.0043239295,
+                  "z": 0.45022172,
+                  "w": 0.8929039
+                },
+                "linear_velocity": {
+                  "x": 1084.95,
+                  "y": 1465.33,
+                  "z": -0.13
+                },
+                "angular_velocity": {
+                  "x": -0.19,
+                  "y": -0.25,
+                  "z": 50.49
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 16,
+            "stream_id": 51,
+            "object_id": 288,
+            "attribute": {
+              "Byte": 172
+            }
+          },
+          {
+            "actor_id": 18,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": -296.04,
+                  "y": 5290.81,
+                  "z": 21.52
+                },
+                "rotation": {
+                  "x": 0.008941875,
+                  "y": -0.06025739,
+                  "z": 0.8758002,
+                  "w": -0.47881433
+                },
+                "linear_velocity": {
+                  "x": 748.49,
+                  "y": 1012.3,
+                  "z": -98.18
+                },
+                "angular_velocity": {
+                  "x": -188.14,
+                  "y": -82.05,
+                  "z": -204.66
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 18,
+            "stream_id": 51,
+            "object_id": 288,
+            "attribute": {
+              "Byte": 4
+            }
+          }
+        ]
+      },
+      {
+        "time": 405.3718,
+        "delta": 0.0372819,
+        "new_actors": [],
+        "deleted_actors": [],
+        "updated_actors": [
+          {
+            "actor_id": 204,
+            "stream_id": 42,
+            "object_id": 46,
+            "attribute": {
+              "RigidBody": {
+                "sleeping": false,
+                "location": {
+                  "x": -586.67,
+                  "y": 4139.96,
+                  "z": 92.5
+                },
+                "rotation": {
+                  "x": 0.13796434,
+                  "y": 0.9559401,
+                  "z": 0.06250167,
+                  "w": 0.25147128
+                },
+                "linear_velocity": {
+                  "x": 1312.55,
+                  "y": -1834.74,
+                  "z": -142.2
+                },
+                "angular_velocity": {
+                  "x": 163.39,
+                  "y": -277.33,
+                  "z": 296.15
+                }
+              }
+            }
+          },
+          {
+            "actor_id": 18,
+            "stream_id": 51,
+            "object_id": 288,
+            "attribute": {
+              "Byte": 9
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "levels": [
+    "UF_Day_OOB",
+    "UF_Day_SFX"
+  ],
+  "keyframes": [
+    {
+      "time": 10.913536,
+      "frame": 0,
+      "position": 0
+    },
+    {
+      "time": 20.926962,
+      "frame": 288,
+      "position": 159604
+    },
+    {
+      "time": 30.954926,
+      "frame": 576,
+      "position": 426034
+    },
+    {
+      "time": 40.9836,
+      "frame": 862,
+      "position": 694271
+    },
+    {
+      "time": 51.013313,
+      "frame": 1152,
+      "position": 967531
+    },
+    {
+      "time": 61.018982,
+      "frame": 1439,
+      "position": 1228592
+    },
+    {
+      "time": 71.03431,
+      "frame": 1728,
+      "position": 1499837
+    },
+    {
+      "time": 81.0596,
+      "frame": 2012,
+      "position": 1772844
+    },
+    {
+      "time": 91.08551,
+      "frame": 2299,
+      "position": 2042550
+    },
+    {
+      "time": 101.08683,
+      "frame": 2580,
+      "position": 2313455
+    },
+    {
+      "time": 110.17387,
+      "frame": 2648,
+      "position": 2381415
+    },
+    {
+      "time": 120.19026,
+      "frame": 2936,
+      "position": 2553709
+    },
+    {
+      "time": 127.27536,
+      "frame": 3073,
+      "position": 2679837
+    },
+    {
+      "time": 137.3051,
+      "frame": 3363,
+      "position": 2853492
+    },
+    {
+      "time": 147.31255,
+      "frame": 3649,
+      "position": 3114995
+    },
+    {
+      "time": 157.31882,
+      "frame": 3933,
+      "position": 3387217
+    },
+    {
+      "time": 167.34831,
+      "frame": 4221,
+      "position": 3652088
+    },
+    {
+      "time": 177.37773,
+      "frame": 4508,
+      "position": 3924660
+    },
+    {
+      "time": 187.39526,
+      "frame": 4795,
+      "position": 4180949
+    },
+    {
+      "time": 195.49821,
+      "frame": 4802,
+      "position": 4217603
+    },
+    {
+      "time": 205.51584,
+      "frame": 5091,
+      "position": 4388471
+    },
+    {
+      "time": 215.54851,
+      "frame": 5376,
+      "position": 4663781
+    },
+    {
+      "time": 225.57922,
+      "frame": 5663,
+      "position": 4923172
+    },
+    {
+      "time": 235.59743,
+      "frame": 5947,
+      "position": 5196451
+    },
+    {
+      "time": 245.61238,
+      "frame": 6240,
+      "position": 5473300
+    },
+    {
+      "time": 258.16568,
+      "frame": 6429,
+      "position": 5629305
+    },
+    {
+      "time": 268.17252,
+      "frame": 6719,
+      "position": 5803737
+    },
+    {
+      "time": 278.18024,
+      "frame": 7004,
+      "position": 6077755
+    },
+    {
+      "time": 288.20145,
+      "frame": 7292,
+      "position": 6337907
+    },
+    {
+      "time": 298.2071,
+      "frame": 7580,
+      "position": 6613065
+    },
+    {
+      "time": 308.23022,
+      "frame": 7861,
+      "position": 6876068
+    },
+    {
+      "time": 319.33386,
+      "frame": 8114,
+      "position": 7107804
+    },
+    {
+      "time": 329.36493,
+      "frame": 8403,
+      "position": 7284919
+    },
+    {
+      "time": 338.68475,
+      "frame": 8592,
+      "position": 7449199
+    },
+    {
+      "time": 348.697,
+      "frame": 8881,
+      "position": 7624786
+    },
+    {
+      "time": 358.7052,
+      "frame": 9167,
+      "position": 7895478
+    },
+    {
+      "time": 368.74084,
+      "frame": 9453,
+      "position": 8166883
+    },
+    {
+      "time": 378.77682,
+      "frame": 9741,
+      "position": 8442219
+    },
+    {
+      "time": 388.79977,
+      "frame": 10032,
+      "position": 8719026
+    },
+    {
+      "time": 398.81165,
+      "frame": 10315,
+      "position": 8991859
+    }
+  ],
+  "debug_info": [
+    {
+      "frame": 0,
+      "user": "Message from the Wizard",
+      "text": "Additional replay data provided by BakkesMod. You can support our work at: https://www.patreon.com/bakkesmod"
+    },
+    {
+      "frame": 0,
+      "user": "GameStartTime",
+      "text": "2025-04-22T22:59:49+0200"
+    }
+  ],
+  "tick_marks": [
+    {
+      "description": "Team0Save",
+      "frame": 1957
+    },
+    {
+      "description": "Team1Goal",
+      "frame": 2515
+    },
+    {
+      "description": "Team1Goal",
+      "frame": 2941
+    },
+    {
+      "description": "Team1Save",
+      "frame": 3905
+    },
+    {
+      "description": "Team1Goal",
+      "frame": 4669
+    },
+    {
+      "description": "Team1Goal",
+      "frame": 6296
+    },
+    {
+      "description": "Team0Goal",
+      "frame": 7985
+    },
+    {
+      "description": "Team1Goal",
+      "frame": 8459
+    }
+  ],
+  "packages": [
+    "..\\..\\TAGame\\CookedPCConsole\\GFxShell_SF.upk",
+    "..\\..\\TAGame\\CookedPCConsole\\GameInfo_Soccar_SF.upk",
+    "..\\..\\TAGame\\CookedPCConsole\\UF_Day_P.upk",
+    "..\\..\\TAGame\\CookedPCConsole\\UF_Day_OOB.upk",
+    "..\\..\\TAGame\\CookedPCConsole\\UF_Day_SFX.upk"
+  ],
+  "objects": [
+    "Core.Object",
+    "Engine.Actor:RelativeRotation",
+    "Engine.Actor:RelativeLocation",
+    "Engine.Actor:Velocity",
+    "Engine.Actor:Instigator",
+    "Engine.Actor:bNetOwner",
+    "Engine.Actor:bBlockActors",
+    "Engine.Actor:bCollideWorld",
+    "Engine.Actor:bCollideActors",
+    "Engine.Actor:bHardAttach",
+    "Engine.Actor:bTearOff",
+    "Engine.Actor:bHidden",
+    "Engine.Actor:Base",
+    "Engine.Actor:Owner",
+    "Engine.Actor:ReplicatedCollisionType",
+    "Engine.Actor:Role",
+    "Engine.Actor:RemoteRole",
+    "Engine.Actor:Physics",
+    "Engine.Actor:DrawScale",
+    "Engine.Actor:Rotation",
+    "Engine.Actor:Location",
+    "Engine.Actor",
+    "Engine.Pawn:RootMotionInterpCurveLastValue",
+    "Engine.Pawn:RootMotionInterpCurrentTime",
+    "Engine.Pawn:RootMotionInterpRate",
+    "Engine.Pawn:PlayerReplicationInfo",
+    "Engine.Pawn:AirControl",
+    "Engine.Pawn:JumpZ",
+    "Engine.Pawn:AccelRate",
+    "Engine.Pawn:AirSpeed",
+    "Engine.Pawn:GroundSpeed",
+    "Engine.Pawn:RemoteViewPitch",
+    "Engine.Pawn:bFastAttachedMove",
+    "Engine.Pawn:bRootMotionFromInterpCurve",
+    "Engine.Pawn:bUsedByMatinee",
+    "Engine.Pawn:bCanSwatTurn",
+    "Engine.Pawn:bSimulateGravity",
+    "Engine.Pawn:bIsCrouched",
+    "Engine.Pawn:bIsWalking",
+    "Engine.Pawn:Controller",
+    "Engine.Pawn",
+    "ProjectX.Pawn_X",
+    "TAGame.RBActor_TA:TeleportCounter",
+    "TAGame.RBActor_TA:ReplicatedCollisionScale",
+    "TAGame.RBActor_TA:ReplicatedGravityScale",
+    "TAGame.RBActor_TA:WeldedInfo",
+    "TAGame.RBActor_TA:ReplicatedRBState",
+    "TAGame.RBActor_TA:bIgnoreSyncing",
+    "TAGame.RBActor_TA:bFrozen",
+    "TAGame.RBActor_TA:bReplayActor",
+    "TAGame.RBActor_TA:MaxAngularSpeed",
+    "TAGame.RBActor_TA:MaxLinearSpeed",
+    "TAGame.RBActor_TA",
+    "TAGame.Ball_TA:ReplicatedExplosionDataExtended",
+    "TAGame.Ball_TA:ReplicatedExplosionData",
+    "TAGame.Ball_TA:GameEvent",
+    "TAGame.Ball_TA:GameBallIndex",
+    "TAGame.Ball_TA:ReplicatedPhysMatOverride",
+    "TAGame.Ball_TA:ReplicatedAddedCarBounceScale",
+    "TAGame.Ball_TA:ReplicatedBallMaxLinearSpeedScale",
+    "TAGame.Ball_TA:ReplicatedBallGravityScale",
+    "TAGame.Ball_TA:ReplicatedWorldBounceScale",
+    "TAGame.Ball_TA:ReplicatedBallMesh",
+    "TAGame.Ball_TA:ReplicatedBallScale",
+    "TAGame.Ball_TA:HitTeamNum",
+    "TAGame.Ball_TA:BallHitSpinScale",
+    "TAGame.Ball_TA:MagnusCoefficient",
+    "TAGame.Ball_TA:bPossessionEnabled",
+    "TAGame.Ball_TA:bWarnBallReset",
+    "TAGame.Ball_TA:bEndOfGameHidden",
+    "TAGame.Ball_TA:DoRBTeleportEffect",
+    "TAGame.Ball_TA",
+    "Archetypes.Ball.Ball_Default",
+    "Engine.Info",
+    "Engine.ReplicationInfo",
+    "Engine.GameReplicationInfo:Winner",
+    "Engine.GameReplicationInfo:ServerName",
+    "Engine.GameReplicationInfo:TimeLimit",
+    "Engine.GameReplicationInfo:GoalScore",
+    "Engine.GameReplicationInfo:RemainingMinute",
+    "Engine.GameReplicationInfo:ElapsedTime",
+    "Engine.GameReplicationInfo:RemainingTime",
+    "Engine.GameReplicationInfo:bMatchIsOver",
+    "Engine.GameReplicationInfo:bMatchHasBegun",
+    "Engine.GameReplicationInfo:bStopCountDown",
+    "Engine.GameReplicationInfo:GameClass",
+    "Engine.GameReplicationInfo",
+    "ProjectX.GRI_X:MatchGuid",
+    "ProjectX.GRI_X:bGameStarted",
+    "ProjectX.GRI_X:GameServerID",
+    "ProjectX.GRI_X:Reservations",
+    "ProjectX.GRI_X:ReplicatedServerRegion",
+    "ProjectX.GRI_X:ReplicatedGameMutatorIndex",
+    "ProjectX.GRI_X:ReplicatedGamePlaylist",
+    "ProjectX.GRI_X",
+    "TAGame.GRI_TA",
+    "GameInfo_Soccar.GameInfo.GameInfo_Soccar:GameReplicationInfoArchetype",
+    "ProjectX.NetModeReplicator_X",
+    "ProjectX.Default__NetModeReplicator_X",
+    "Engine.PlayerReplicationInfo:RemoteUserData",
+    "Engine.PlayerReplicationInfo:UniqueId",
+    "Engine.PlayerReplicationInfo:bTimedOut",
+    "Engine.PlayerReplicationInfo:bFromPreviousLevel",
+    "Engine.PlayerReplicationInfo:bIsInactive",
+    "Engine.PlayerReplicationInfo:bBot",
+    "Engine.PlayerReplicationInfo:bOutOfLives",
+    "Engine.PlayerReplicationInfo:bReadyToPlay",
+    "Engine.PlayerReplicationInfo:bWaitingPlayer",
+    "Engine.PlayerReplicationInfo:bOnlySpectator",
+    "Engine.PlayerReplicationInfo:bIsSpectator",
+    "Engine.PlayerReplicationInfo:bAdmin",
+    "Engine.PlayerReplicationInfo:Team",
+    "Engine.PlayerReplicationInfo:PlayerID",
+    "Engine.PlayerReplicationInfo:PlayerName",
+    "Engine.PlayerReplicationInfo:Ping",
+    "Engine.PlayerReplicationInfo:Deaths",
+    "Engine.PlayerReplicationInfo:Score",
+    "Engine.PlayerReplicationInfo:ClientFillRemoteUserData",
+    "Engine.PlayerReplicationInfo:ServerUpdateRemoteUserData",
+    "Engine.PlayerReplicationInfo",
+    "ProjectX.PRI_X",
+    "TAGame.PRI_TA:SelfDemolitions",
+    "TAGame.PRI_TA:BallDemolitions",
+    "TAGame.PRI_TA:CarDemolitions",
+    "TAGame.PRI_TA:BallDemolitionSaves",
+    "TAGame.PRI_TA:PossessionClears",
+    "TAGame.PRI_TA:PossessionDenials",
+    "TAGame.PRI_TA:PossessionSteals",
+    "TAGame.PRI_TA:CurrentVoiceRoom",
+    "TAGame.PRI_TA:PickupTimer",
+    "TAGame.PRI_TA:StayAsPartyVoteYes",
+    "TAGame.PRI_TA:StayAsPartyVoter",
+    "TAGame.PRI_TA:SpectatorShortcut",
+    "TAGame.PRI_TA:ClubID",
+    "TAGame.PRI_TA:BotBannerProductID",
+    "TAGame.PRI_TA:BotAvatarProductID",
+    "TAGame.PRI_TA:BotProductName",
+    "TAGame.PRI_TA:SecondaryTitle",
+    "TAGame.PRI_TA:PrimaryTitle",
+    "TAGame.PRI_TA:ReplacingBotPRI",
+    "TAGame.PRI_TA:SteeringSensitivity",
+    "TAGame.PRI_TA:SkillTier",
+    "TAGame.PRI_TA:Title",
+    "TAGame.PRI_TA:PartyLeader",
+    "TAGame.PRI_TA:QuitSeverity",
+    "TAGame.PRI_TA:ReplicatedWorstNetQualityBeyondLatency",
+    "TAGame.PRI_TA:PlayerHistoryKey",
+    "TAGame.PRI_TA:PawnType",
+    "TAGame.PRI_TA:PersistentCamera",
+    "TAGame.PRI_TA:ClientLoadoutsOnline",
+    "TAGame.PRI_TA:ClientLoadouts",
+    "TAGame.PRI_TA:ClientLoadoutOnline",
+    "TAGame.PRI_TA:ClientLoadout",
+    "TAGame.PRI_TA:ReplicatedGameEvent",
+    "TAGame.PRI_TA:bAbleToStart",
+    "TAGame.PRI_TA:bIdleBanned",
+    "TAGame.PRI_TA:PlayerHistoryValid",
+    "TAGame.PRI_TA:bUsingItems",
+    "TAGame.PRI_TA:bStartVoteToForfeitDisabled",
+    "TAGame.PRI_TA:bIsInSplitScreen",
+    "TAGame.PRI_TA:bIsDistracted",
+    "TAGame.PRI_TA:bReady",
+    "TAGame.PRI_TA:bOnlineLoadoutSet",
+    "TAGame.PRI_TA:bMatchAdmin",
+    "TAGame.PRI_TA:bMatchMVP",
+    "TAGame.PRI_TA:MatchBreakoutDamage",
+    "TAGame.PRI_TA:MatchShots",
+    "TAGame.PRI_TA:MatchSaves",
+    "TAGame.PRI_TA:MatchAssists",
+    "TAGame.PRI_TA:MatchGoals",
+    "TAGame.PRI_TA:MatchScore",
+    "TAGame.PRI_TA:ServerSetPlayerHistoryKey",
+    "TAGame.PRI_TA:ServerSetDistracted",
+    "TAGame.PRI_TA:ServerSetPartyLeader",
+    "TAGame.PRI_TA:ServerSplitScreenStatusChanged",
+    "TAGame.PRI_TA:ServerSetTeamLoadoutPaint",
+    "TAGame.PRI_TA:ServerSetTeamLoadoutProduct",
+    "TAGame.PRI_TA:ServerSetLoadoutComplete",
+    "TAGame.PRI_TA:ClientNotifyGainedStat",
+    "TAGame.PRI_TA:ClientScoredGoal",
+    "TAGame.PRI_TA:ClientNotifyStatTickerMessage",
+    "TAGame.PRI_TA:ClientGiveOnlineReward",
+    "TAGame.PRI_TA:ClientGiveRewardDrop",
+    "TAGame.PRI_TA:ClientGiveOnlineCurrencyDrop",
+    "TAGame.PRI_TA:ClientUpdateOnlineProductStats",
+    "TAGame.PRI_TA:ServerReadyUp",
+    "TAGame.PRI_TA:ServerMatchAdminSetScoreAndTime",
+    "TAGame.PRI_TA:ServerMatchAdminSetPaused",
+    "TAGame.PRI_TA:ServerSetVoteStatus",
+    "TAGame.PRI_TA:ServerChangeTeam",
+    "TAGame.PRI_TA:ClientChangeTeamFailed",
+    "TAGame.PRI_TA:ServerSpectate",
+    "TAGame.PRI_TA:ServerSetUserCarPreferences",
+    "TAGame.PRI_TA:ServerVoteToForfeit",
+    "TAGame.PRI_TA:ClientUnlockAchievement",
+    "TAGame.PRI_TA:ServerSetPublicIP",
+    "TAGame.PRI_TA:ServerSetCurrentVoiceRoom",
+    "TAGame.PRI_TA:ClientStayAsPartyFollower",
+    "TAGame.PRI_TA:ServerInviteeConfirmedMerge",
+    "TAGame.PRI_TA:ClientStayAsPartyLeader",
+    "TAGame.PRI_TA",
+    "TAGame.Default__PRI_TA",
+    "TAGame.CameraSettingsActor_TA:CameraYaw",
+    "TAGame.CameraSettingsActor_TA:CameraPitch",
+    "TAGame.CameraSettingsActor_TA:bUsingFreecam",
+    "TAGame.CameraSettingsActor_TA:bUsingBehindView",
+    "TAGame.CameraSettingsActor_TA:bUsingSecondaryCamera",
+    "TAGame.CameraSettingsActor_TA:ProfileSettings",
+    "TAGame.CameraSettingsActor_TA:PRI",
+    "TAGame.CameraSettingsActor_TA:ServerSetCameraSettings",
+    "TAGame.CameraSettingsActor_TA:ServerSetUsingSecondaryCamera",
+    "TAGame.CameraSettingsActor_TA:ServerSetUsingBehindView",
+    "TAGame.CameraSettingsActor_TA:ServerSetUsingFreecam",
+    "TAGame.CameraSettingsActor_TA:ServerSetCameraRotation",
+    "TAGame.CameraSettingsActor_TA:ServerSetCameraRotationReliable",
+    "TAGame.CameraSettingsActor_TA",
+    "TAGame.Default__CameraSettingsActor_TA",
+    "TAGame.GameEvent_TA:MatchTotalSecondsPlayed",
+    "TAGame.GameEvent_TA:MatchStartEpoch",
+    "TAGame.GameEvent_TA:ReplicatedRoundCountDownNumber",
+    "TAGame.GameEvent_TA:RichPresenceString",
+    "TAGame.GameEvent_TA:MatchSettings",
+    "TAGame.GameEvent_TA:GameOwner",
+    "TAGame.GameEvent_TA:ReplicatedGameStateTimeRemaining",
+    "TAGame.GameEvent_TA:ReplicatedStateName",
+    "TAGame.GameEvent_TA:ReplicatedStateIndex",
+    "TAGame.GameEvent_TA:ActivatorCar",
+    "TAGame.GameEvent_TA:BotSkill",
+    "TAGame.GameEvent_TA:bAlwaysShowMatchTypeLabel",
+    "TAGame.GameEvent_TA:bIsBotMatch",
+    "TAGame.GameEvent_TA:bCanVoteToForfeit",
+    "TAGame.GameEvent_TA:bHasLeaveMatchPenalty",
+    "TAGame.GameEvent_TA:bAllowReadyUp",
+    "TAGame.GameEvent_TA:bAllowQueueSaveReplay",
+    "TAGame.GameEvent_TA:MatchTypeClass",
+    "TAGame.GameEvent_TA",
+    "TAGame.GameEvent_Team_TA:bDisableQuickChat",
+    "TAGame.GameEvent_Team_TA:bForfeit",
+    "TAGame.GameEvent_Team_TA:bDisableMutingOtherTeam",
+    "TAGame.GameEvent_Team_TA:MaxTeamSize",
+    "TAGame.GameEvent_Team_TA",
+    "TAGame.GameEvent_Soccar_TA:ReplicatedStatEvent",
+    "TAGame.GameEvent_Soccar_TA:SubRulesArchetype",
+    "TAGame.GameEvent_Soccar_TA:RoundNum",
+    "TAGame.GameEvent_Soccar_TA:MVP",
+    "TAGame.GameEvent_Soccar_TA:ReplicatedServerPerformanceState",
+    "TAGame.GameEvent_Soccar_TA:ReplicatedScoredOnTeam",
+    "TAGame.GameEvent_Soccar_TA:TieBreakDecision",
+    "TAGame.GameEvent_Soccar_TA:MatchWinner",
+    "TAGame.GameEvent_Soccar_TA:GameWinner",
+    "TAGame.GameEvent_Soccar_TA:ReplayDirector",
+    "TAGame.GameEvent_Soccar_TA:WaitTimeRemaining",
+    "TAGame.GameEvent_Soccar_TA:SecondsRemaining",
+    "TAGame.GameEvent_Soccar_TA:MaxScore",
+    "TAGame.GameEvent_Soccar_TA:GameTime",
+    "TAGame.GameEvent_Soccar_TA:SeriesLength",
+    "TAGame.GameEvent_Soccar_TA:bAllowHonorDuels",
+    "TAGame.GameEvent_Soccar_TA:bCanDropOnlineRewards",
+    "TAGame.GameEvent_Soccar_TA:bClubMatch",
+    "TAGame.GameEvent_Soccar_TA:bShowIntroScene",
+    "TAGame.GameEvent_Soccar_TA:bDisableCrowdSound",
+    "TAGame.GameEvent_Soccar_TA:bMatchEnded",
+    "TAGame.GameEvent_Soccar_TA:bNoContest",
+    "TAGame.GameEvent_Soccar_TA:bGoalsEnabled",
+    "TAGame.GameEvent_Soccar_TA:bUnlimitedTime",
+    "TAGame.GameEvent_Soccar_TA:bOverTime",
+    "TAGame.GameEvent_Soccar_TA:bBallHasBeenHit",
+    "TAGame.GameEvent_Soccar_TA:bShouldSpawnGoalIndicators",
+    "TAGame.GameEvent_Soccar_TA",
+    "Archetypes.GameEvent.GameEvent_Soccar",
+    "Engine.TeamInfo:TeamIndex",
+    "Engine.TeamInfo:Score",
+    "Engine.TeamInfo:TeamName",
+    "Engine.TeamInfo",
+    "TAGame.Team_TA:Difficulty",
+    "TAGame.Team_TA:ClubColors",
+    "TAGame.Team_TA:LogoData",
+    "TAGame.Team_TA:ClubID",
+    "TAGame.Team_TA:CustomTeamName",
+    "TAGame.Team_TA:GameEvent",
+    "TAGame.Team_TA",
+    "TAGame.Team_Soccar_TA:GameScore",
+    "TAGame.Team_Soccar_TA",
+    "Archetypes.Teams.Team0",
+    "Archetypes.Teams.Team1",
+    "TAGame.Vehicle_TA:PMCAnimIdx",
+    "TAGame.Vehicle_TA:PodiumSpot",
+    "TAGame.Vehicle_TA:InputRestriction",
+    "TAGame.Vehicle_TA:ReplicatedSteer",
+    "TAGame.Vehicle_TA:ReplicatedThrottle",
+    "TAGame.Vehicle_TA:bHasPostMatchCelebration",
+    "TAGame.Vehicle_TA:bPodiumMode",
+    "TAGame.Vehicle_TA:bReplicatedHandbrake",
+    "TAGame.Vehicle_TA:bDriving",
+    "TAGame.Vehicle_TA",
+    "TAGame.Car_TA:PostMatchAnim",
+    "TAGame.Car_TA:ReplicatedCarMaxLinearSpeedScale",
+    "TAGame.Car_TA:AddedCarForceMultiplier",
+    "TAGame.Car_TA:AddedBallForceMultiplier",
+    "TAGame.Car_TA:RumblePickups",
+    "TAGame.Car_TA:AttachedPickup",
+    "TAGame.Car_TA:ReplicatedDemolishGoalExplosion",
+    "TAGame.Car_TA:ReplicatedDemolish",
+    "TAGame.Car_TA:ReplicatedDemolishExtended",
+    "TAGame.Car_TA:ReplicatedCarScale",
+    "TAGame.Car_TA:ClubColors",
+    "TAGame.Car_TA:TeamPaint",
+    "TAGame.Car_TA:MaxNumJumps",
+    "TAGame.Car_TA:MaxTimeForDodge",
+    "TAGame.Car_TA:bOverrideBoostOn",
+    "TAGame.Car_TA:bOverrideHandbrakeOn",
+    "TAGame.Car_TA:bUnlimitedJumps",
+    "TAGame.Car_TA:bUnlimitedTimeForDodge",
+    "TAGame.Car_TA:ServerEquipProduct",
+    "TAGame.Car_TA",
+    "Archetypes.Car.Car_Default",
+    "TAGame.CarComponent_TA:ReplicatedActivityTime",
+    "TAGame.CarComponent_TA:Vehicle",
+    "TAGame.CarComponent_TA:ReplicatedActive",
+    "TAGame.CarComponent_TA",
+    "TAGame.CarComponent_AirActivate_TA:AirActivateCount",
+    "TAGame.CarComponent_AirActivate_TA",
+    "TAGame.CarComponent_Boost_TA:ReplicatedBoost",
+    "TAGame.CarComponent_Boost_TA:ReplicatedBoostAmount",
+    "TAGame.CarComponent_Boost_TA:BoostRestriction",
+    "TAGame.CarComponent_Boost_TA:UnlimitedBoostRefCount",
+    "TAGame.CarComponent_Boost_TA:RechargeDelay",
+    "TAGame.CarComponent_Boost_TA:RechargeRate",
+    "TAGame.CarComponent_Boost_TA:bNoBoost",
+    "TAGame.CarComponent_Boost_TA:bRechargeGroundOnly",
+    "TAGame.CarComponent_Boost_TA:BoostModifier",
+    "TAGame.CarComponent_Boost_TA:CurrentBoostAmount",
+    "TAGame.CarComponent_Boost_TA:StartBoostAmount",
+    "TAGame.CarComponent_Boost_TA:ServerConfirmBoostAmount",
+    "TAGame.CarComponent_Boost_TA:ClientFixBoostAmount",
+    "TAGame.CarComponent_Boost_TA:ClientGiveBoost",
+    "TAGame.CarComponent_Boost_TA",
+    "Archetypes.CarComponents.CarComponent_Boost",
+    "TAGame.CarComponent_Dodge_TA:DodgeTorque",
+    "TAGame.CarComponent_Dodge_TA",
+    "Archetypes.CarComponents.CarComponent_Dodge",
+    "TAGame.CarComponent_FlipCar_TA:bFlipRight",
+    "TAGame.CarComponent_FlipCar_TA:FlipCarTime",
+    "TAGame.CarComponent_FlipCar_TA",
+    "Archetypes.CarComponents.CarComponent_FlipCar",
+    "TAGame.CarComponent_Jump_TA",
+    "Archetypes.CarComponents.CarComponent_Jump",
+    "TAGame.CarComponent_DoubleJump_TA:DoubleJumpImpulse",
+    "TAGame.CarComponent_DoubleJump_TA",
+    "Archetypes.CarComponents.CarComponent_DoubleJump",
+    "TAGame.RumblePickups_TA:PreviewTimeSeconds",
+    "TAGame.RumblePickups_TA:ConcurrentItemCount",
+    "TAGame.RumblePickups_TA:PickupInfo",
+    "TAGame.RumblePickups_TA",
+    "TAGame.Default__RumblePickups_TA",
+    "TAGame.CrowdActor_TA:ReplicatedRoundCountDownNumber",
+    "TAGame.CrowdActor_TA:ReplicatedCountDownNumber",
+    "TAGame.CrowdActor_TA:ReplicatedOneShotSound",
+    "TAGame.CrowdActor_TA:ModifiedNoise",
+    "TAGame.CrowdActor_TA:GameEvent",
+    "TAGame.CrowdActor_TA",
+    "UF_Day_SFX.TheWorld:PersistentLevel.CrowdActor_TA_0",
+    "TAGame.CrowdManager_TA:GameEvent",
+    "TAGame.CrowdManager_TA:ReplicatedGlobalOneShotSound",
+    "TAGame.CrowdManager_TA",
+    "UF_Day_SFX.TheWorld:PersistentLevel.CrowdManager_TA_0",
+    "TAGame.GameInfo_Soccar_TA",
+    "TAGame.ProductAttribute_Painted_TA",
+    "TAGame.ProductAttribute_UserColor_TA",
+    "TAGame.ProductAttribute_TitleID_TA",
+    "TAGame.MatchType_Private_TA",
+    "TAGame.VehiclePickup_TA:bNoPickup",
+    "TAGame.VehiclePickup_TA:NewReplicatedPickupData",
+    "TAGame.VehiclePickup_TA:ReplicatedPickupData",
+    "TAGame.VehiclePickup_TA",
+    "TAGame.VehiclePickup_Boost_TA",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_34",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_38",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_5",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_19",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_41",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_68",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_42",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_35",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_65",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_14",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_12",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_32",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_67",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_63",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_4",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_39",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_66",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_64",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_43",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_13",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_40",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_21",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_7",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_31",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_20",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_28",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_23",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_36",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_10",
+    "StatEvents.Events.Save",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_17",
+    "UF_Day_P.TheWorld:PersistentLevel.GoalVolume_TA_0.Goal_TA_0",
+    "StatEvents.Events.Goal",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_11",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_33",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_18",
+    "UF_Day_P.TheWorld:PersistentLevel.VehiclePickup_Boost_TA_3",
+    "UF_Day_P.TheWorld:PersistentLevel.GoalVolume_TA_4.Goal_TA_2"
+  ],
+  "names": [
+    "Ball_TA_62",
+    "GRI_TA_4",
+    "NetModeReplicator_X_3",
+    "PRI_TA_13",
+    "CameraSettingsActor_TA_166",
+    "CameraSettingsActor_TA_167",
+    "GameEvent_Soccar_TA_3",
+    "Team_Soccar_TA_8",
+    "PRI_TA_14",
+    "CameraSettingsActor_TA_168",
+    "Team_Soccar_TA_9",
+    "PRI_TA_15",
+    "PRI_TA_16",
+    "CameraSettingsActor_TA_169",
+    "Car_TA_266",
+    "CarComponent_Boost_TA_266",
+    "CarComponent_Dodge_TA_266",
+    "CarComponent_FlipCar_TA_266",
+    "CarComponent_Jump_TA_266",
+    "CarComponent_DoubleJump_TA_266",
+    "RumblePickups_TA_266",
+    "Car_TA_267",
+    "CarComponent_Dodge_TA_267",
+    "CarComponent_DoubleJump_TA_267",
+    "CarComponent_FlipCar_TA_267",
+    "CarComponent_Jump_TA_267",
+    "CarComponent_Boost_TA_267",
+    "RumblePickups_TA_267",
+    "Car_TA_268",
+    "CarComponent_Boost_TA_268",
+    "CarComponent_Dodge_TA_268",
+    "CarComponent_FlipCar_TA_268",
+    "CarComponent_DoubleJump_TA_268",
+    "CarComponent_Jump_TA_268",
+    "RumblePickups_TA_268",
+    "Car_TA_269",
+    "CarComponent_Jump_TA_269",
+    "CarComponent_FlipCar_TA_269",
+    "CarComponent_Boost_TA_269",
+    "CarComponent_Dodge_TA_269",
+    "CarComponent_DoubleJump_TA_269",
+    "RumblePickups_TA_269",
+    "CrowdActor_TA_0",
+    "CrowdManager_TA_0",
+    "Power_of_Friendship",
+    "Countdown",
+    "RP16_Fully_Flourished",
+    "AutoTour_10_Platinum_1",
+    "Active",
+    "VehiclePickup_Boost_TA_34",
+    "VehiclePickup_Boost_TA_38",
+    "VehiclePickup_Boost_TA_5",
+    "VehiclePickup_Boost_TA_19",
+    "VehiclePickup_Boost_TA_41",
+    "VehiclePickup_Boost_TA_68",
+    "VehiclePickup_Boost_TA_42",
+    "VehiclePickup_Boost_TA_35",
+    "VehiclePickup_Boost_TA_65",
+    "VehiclePickup_Boost_TA_14",
+    "VehiclePickup_Boost_TA_12",
+    "VehiclePickup_Boost_TA_32",
+    "VehiclePickup_Boost_TA_67",
+    "VehiclePickup_Boost_TA_63",
+    "VehiclePickup_Boost_TA_4",
+    "VehiclePickup_Boost_TA_39",
+    "VehiclePickup_Boost_TA_66",
+    "VehiclePickup_Boost_TA_64",
+    "VehiclePickup_Boost_TA_43",
+    "VehiclePickup_Boost_TA_13",
+    "VehiclePickup_Boost_TA_40",
+    "VehiclePickup_Boost_TA_21",
+    "VehiclePickup_Boost_TA_7",
+    "VehiclePickup_Boost_TA_31",
+    "CarComponent_Jump_TA_270",
+    "CarComponent_FlipCar_TA_270",
+    "CarComponent_DoubleJump_TA_270",
+    "CarComponent_Boost_TA_270",
+    "CarComponent_Dodge_TA_270",
+    "Car_TA_270",
+    "RumblePickups_TA_270",
+    "VehiclePickup_Boost_TA_20",
+    "VehiclePickup_Boost_TA_28",
+    "VehiclePickup_Boost_TA_23",
+    "VehiclePickup_Boost_TA_36",
+    "VehiclePickup_Boost_TA_10",
+    "VehiclePickup_Boost_TA_17",
+    "PostGoalScored",
+    "Car_TA_275",
+    "CarComponent_DoubleJump_TA_275",
+    "CarComponent_Jump_TA_275",
+    "CarComponent_Dodge_TA_275",
+    "CarComponent_FlipCar_TA_275",
+    "CarComponent_Boost_TA_275",
+    "CarComponent_Jump_TA_276",
+    "CarComponent_Dodge_TA_276",
+    "CarComponent_FlipCar_TA_276",
+    "CarComponent_Jump_TA_277",
+    "CarComponent_FlipCar_TA_277",
+    "CarComponent_Dodge_TA_277",
+    "CarComponent_DoubleJump_TA_276",
+    "CarComponent_Jump_TA_278",
+    "CarComponent_Boost_TA_276",
+    "CarComponent_DoubleJump_TA_277",
+    "CarComponent_DoubleJump_TA_278",
+    "CarComponent_Dodge_TA_278",
+    "CarComponent_Boost_TA_277",
+    "CarComponent_Boost_TA_278",
+    "CarComponent_FlipCar_TA_278",
+    "Ball_TA_64",
+    "Car_TA_276",
+    "Car_TA_277",
+    "Car_TA_278",
+    "RumblePickups_TA_275",
+    "RumblePickups_TA_276",
+    "RumblePickups_TA_277",
+    "RumblePickups_TA_278",
+    "Car_TA_283",
+    "CarComponent_Boost_TA_283",
+    "CarComponent_DoubleJump_TA_283",
+    "CarComponent_Jump_TA_283",
+    "CarComponent_Dodge_TA_283",
+    "CarComponent_FlipCar_TA_283",
+    "Car_TA_284",
+    "CarComponent_Boost_TA_284",
+    "CarComponent_FlipCar_TA_284",
+    "CarComponent_Jump_TA_284",
+    "CarComponent_Jump_TA_285",
+    "CarComponent_DoubleJump_TA_284",
+    "CarComponent_Boost_TA_285",
+    "CarComponent_Dodge_TA_284",
+    "CarComponent_DoubleJump_TA_285",
+    "CarComponent_FlipCar_TA_285",
+    "CarComponent_Dodge_TA_285",
+    "CarComponent_FlipCar_TA_286",
+    "CarComponent_DoubleJump_TA_286",
+    "CarComponent_Dodge_TA_286",
+    "CarComponent_Jump_TA_286",
+    "CarComponent_Boost_TA_286",
+    "Ball_TA_66",
+    "Car_TA_285",
+    "Car_TA_286",
+    "RumblePickups_TA_283",
+    "RumblePickups_TA_284",
+    "RumblePickups_TA_285",
+    "RumblePickups_TA_286",
+    "VehiclePickup_Boost_TA_11",
+    "CarComponent_Jump_TA_287",
+    "CarComponent_FlipCar_TA_287",
+    "CarComponent_Dodge_TA_287",
+    "CarComponent_DoubleJump_TA_287",
+    "CarComponent_Boost_TA_287",
+    "Car_TA_287",
+    "RumblePickups_TA_287",
+    "VehiclePickup_Boost_TA_33",
+    "Car_TA_292",
+    "CarComponent_DoubleJump_TA_292",
+    "CarComponent_Jump_TA_292",
+    "CarComponent_FlipCar_TA_292",
+    "CarComponent_Boost_TA_292",
+    "CarComponent_Dodge_TA_292",
+    "Car_TA_293",
+    "CarComponent_Dodge_TA_293",
+    "CarComponent_FlipCar_TA_293",
+    "CarComponent_Boost_TA_293",
+    "CarComponent_DoubleJump_TA_293",
+    "CarComponent_Jump_TA_293",
+    "CarComponent_Boost_TA_294",
+    "CarComponent_Dodge_TA_294",
+    "CarComponent_Jump_TA_294",
+    "CarComponent_DoubleJump_TA_294",
+    "CarComponent_FlipCar_TA_294",
+    "CarComponent_Dodge_TA_295",
+    "CarComponent_DoubleJump_TA_295",
+    "CarComponent_Jump_TA_295",
+    "CarComponent_Boost_TA_295",
+    "CarComponent_FlipCar_TA_295",
+    "Ball_TA_68",
+    "Car_TA_294",
+    "Car_TA_295",
+    "RumblePickups_TA_292",
+    "RumblePickups_TA_293",
+    "RumblePickups_TA_294",
+    "RumblePickups_TA_295",
+    "VehiclePickup_Boost_TA_18",
+    "CarComponent_FlipCar_TA_296",
+    "CarComponent_Dodge_TA_296",
+    "CarComponent_DoubleJump_TA_296",
+    "CarComponent_Jump_TA_296",
+    "CarComponent_Boost_TA_296",
+    "Car_TA_296",
+    "RumblePickups_TA_296",
+    "VehiclePickup_Boost_TA_3",
+    "Car_TA_301",
+    "CarComponent_DoubleJump_TA_301",
+    "CarComponent_Jump_TA_301",
+    "CarComponent_Dodge_TA_301",
+    "CarComponent_FlipCar_TA_301",
+    "CarComponent_Boost_TA_301",
+    "Car_TA_302",
+    "CarComponent_DoubleJump_TA_302",
+    "CarComponent_FlipCar_TA_302",
+    "CarComponent_FlipCar_TA_303",
+    "CarComponent_DoubleJump_TA_303",
+    "CarComponent_Jump_TA_302",
+    "CarComponent_Jump_TA_303",
+    "CarComponent_Jump_TA_304",
+    "CarComponent_Boost_TA_302",
+    "CarComponent_FlipCar_TA_304",
+    "CarComponent_Dodge_TA_302",
+    "CarComponent_Dodge_TA_303",
+    "CarComponent_DoubleJump_TA_304",
+    "CarComponent_Boost_TA_303",
+    "CarComponent_Dodge_TA_304",
+    "CarComponent_Boost_TA_304",
+    "Ball_TA_70",
+    "Car_TA_303",
+    "Car_TA_304",
+    "RumblePickups_TA_301",
+    "RumblePickups_TA_302",
+    "RumblePickups_TA_303",
+    "RumblePickups_TA_304",
+    "CarComponent_Boost_TA_305",
+    "CarComponent_Jump_TA_305",
+    "CarComponent_DoubleJump_TA_305",
+    "CarComponent_Dodge_TA_305",
+    "CarComponent_FlipCar_TA_305",
+    "Car_TA_305",
+    "RumblePickups_TA_305",
+    "CarComponent_FlipCar_TA_306",
+    "CarComponent_Dodge_TA_306",
+    "CarComponent_Boost_TA_306",
+    "CarComponent_DoubleJump_TA_306",
+    "CarComponent_Jump_TA_306",
+    "Car_TA_306",
+    "RumblePickups_TA_306",
+    "Car_TA_311",
+    "CarComponent_Boost_TA_311",
+    "CarComponent_FlipCar_TA_311",
+    "CarComponent_Dodge_TA_311",
+    "CarComponent_DoubleJump_TA_311",
+    "CarComponent_Jump_TA_311",
+    "Car_TA_312",
+    "Car_TA_313",
+    "CarComponent_FlipCar_TA_312",
+    "CarComponent_Boost_TA_312",
+    "CarComponent_DoubleJump_TA_312",
+    "CarComponent_Jump_TA_312",
+    "CarComponent_Boost_TA_313",
+    "CarComponent_Dodge_TA_312",
+    "CarComponent_Jump_TA_313",
+    "CarComponent_DoubleJump_TA_313",
+    "CarComponent_FlipCar_TA_313",
+    "CarComponent_Dodge_TA_313",
+    "CarComponent_DoubleJump_TA_314",
+    "CarComponent_Jump_TA_314",
+    "CarComponent_Boost_TA_314",
+    "CarComponent_Dodge_TA_314",
+    "CarComponent_FlipCar_TA_314",
+    "Ball_TA_72",
+    "Car_TA_314",
+    "RumblePickups_TA_311",
+    "RumblePickups_TA_312",
+    "RumblePickups_TA_313",
+    "RumblePickups_TA_314",
+    "Car_TA_319",
+    "CarComponent_DoubleJump_TA_319",
+    "CarComponent_Jump_TA_319",
+    "CarComponent_Boost_TA_319",
+    "CarComponent_Dodge_TA_319",
+    "CarComponent_FlipCar_TA_319",
+    "Car_TA_320",
+    "CarComponent_Boost_TA_320",
+    "CarComponent_Dodge_TA_320",
+    "CarComponent_FlipCar_TA_320",
+    "CarComponent_Jump_TA_320",
+    "CarComponent_DoubleJump_TA_320",
+    "CarComponent_DoubleJump_TA_321",
+    "CarComponent_Boost_TA_321",
+    "CarComponent_FlipCar_TA_321",
+    "CarComponent_Dodge_TA_321",
+    "CarComponent_DoubleJump_TA_322",
+    "CarComponent_Jump_TA_321",
+    "CarComponent_Boost_TA_322",
+    "CarComponent_Jump_TA_322",
+    "CarComponent_Dodge_TA_322",
+    "Ball_TA_74",
+    "CarComponent_FlipCar_TA_322",
+    "Car_TA_321",
+    "Car_TA_322",
+    "RumblePickups_TA_319",
+    "RumblePickups_TA_320",
+    "RumblePickups_TA_321",
+    "RumblePickups_TA_322"
+  ],
+  "class_indices": [
+    {
+      "class": "Core.Object",
+      "index": 0
+    },
+    {
+      "class": "Engine.Actor",
+      "index": 21
+    },
+    {
+      "class": "Engine.Pawn",
+      "index": 40
+    },
+    {
+      "class": "ProjectX.Pawn_X",
+      "index": 41
+    },
+    {
+      "class": "TAGame.RBActor_TA",
+      "index": 52
+    },
+    {
+      "class": "TAGame.Ball_TA",
+      "index": 71
+    },
+    {
+      "class": "Engine.Info",
+      "index": 73
+    },
+    {
+      "class": "Engine.ReplicationInfo",
+      "index": 74
+    },
+    {
+      "class": "Engine.GameReplicationInfo",
+      "index": 86
+    },
+    {
+      "class": "ProjectX.GRI_X",
+      "index": 94
+    },
+    {
+      "class": "TAGame.GRI_TA",
+      "index": 95
+    },
+    {
+      "class": "ProjectX.NetModeReplicator_X",
+      "index": 97
+    },
+    {
+      "class": "Engine.PlayerReplicationInfo",
+      "index": 119
+    },
+    {
+      "class": "ProjectX.PRI_X",
+      "index": 120
+    },
+    {
+      "class": "TAGame.PRI_TA",
+      "index": 200
+    },
+    {
+      "class": "TAGame.CameraSettingsActor_TA",
+      "index": 215
+    },
+    {
+      "class": "TAGame.GameEvent_TA",
+      "index": 235
+    },
+    {
+      "class": "TAGame.GameEvent_Team_TA",
+      "index": 240
+    },
+    {
+      "class": "TAGame.GameEvent_Soccar_TA",
+      "index": 268
+    },
+    {
+      "class": "Engine.TeamInfo",
+      "index": 273
+    },
+    {
+      "class": "TAGame.Team_TA",
+      "index": 280
+    },
+    {
+      "class": "TAGame.Team_Soccar_TA",
+      "index": 282
+    },
+    {
+      "class": "TAGame.Vehicle_TA",
+      "index": 294
+    },
+    {
+      "class": "TAGame.Car_TA",
+      "index": 314
+    },
+    {
+      "class": "TAGame.CarComponent_TA",
+      "index": 319
+    },
+    {
+      "class": "TAGame.CarComponent_AirActivate_TA",
+      "index": 321
+    },
+    {
+      "class": "TAGame.CarComponent_Boost_TA",
+      "index": 336
+    },
+    {
+      "class": "TAGame.CarComponent_Dodge_TA",
+      "index": 339
+    },
+    {
+      "class": "TAGame.CarComponent_FlipCar_TA",
+      "index": 343
+    },
+    {
+      "class": "TAGame.CarComponent_Jump_TA",
+      "index": 345
+    },
+    {
+      "class": "TAGame.CarComponent_DoubleJump_TA",
+      "index": 348
+    },
+    {
+      "class": "TAGame.RumblePickups_TA",
+      "index": 353
+    },
+    {
+      "class": "TAGame.CrowdActor_TA",
+      "index": 360
+    },
+    {
+      "class": "TAGame.CrowdManager_TA",
+      "index": 364
+    },
+    {
+      "class": "TAGame.GameInfo_Soccar_TA",
+      "index": 366
+    },
+    {
+      "class": "TAGame.ProductAttribute_Painted_TA",
+      "index": 367
+    },
+    {
+      "class": "TAGame.ProductAttribute_UserColor_TA",
+      "index": 368
+    },
+    {
+      "class": "TAGame.ProductAttribute_TitleID_TA",
+      "index": 369
+    },
+    {
+      "class": "TAGame.MatchType_Private_TA",
+      "index": 370
+    },
+    {
+      "class": "TAGame.VehiclePickup_TA",
+      "index": 374
+    },
+    {
+      "class": "TAGame.VehiclePickup_Boost_TA",
+      "index": 375
+    }
+  ],
+  "net_cache": [
+    {
+      "object_ind": 0,
+      "parent_id": 0,
+      "cache_id": 0,
+      "properties": []
+    },
+    {
+      "object_ind": 21,
+      "parent_id": 0,
+      "cache_id": 20,
+      "properties": [
+        {
+          "object_ind": 1,
+          "stream_id": 0
+        },
+        {
+          "object_ind": 2,
+          "stream_id": 1
+        },
+        {
+          "object_ind": 3,
+          "stream_id": 2
+        },
+        {
+          "object_ind": 4,
+          "stream_id": 3
+        },
+        {
+          "object_ind": 5,
+          "stream_id": 4
+        },
+        {
+          "object_ind": 6,
+          "stream_id": 5
+        },
+        {
+          "object_ind": 7,
+          "stream_id": 6
+        },
+        {
+          "object_ind": 8,
+          "stream_id": 7
+        },
+        {
+          "object_ind": 9,
+          "stream_id": 8
+        },
+        {
+          "object_ind": 10,
+          "stream_id": 9
+        },
+        {
+          "object_ind": 11,
+          "stream_id": 10
+        },
+        {
+          "object_ind": 12,
+          "stream_id": 11
+        },
+        {
+          "object_ind": 13,
+          "stream_id": 12
+        },
+        {
+          "object_ind": 14,
+          "stream_id": 13
+        },
+        {
+          "object_ind": 15,
+          "stream_id": 14
+        },
+        {
+          "object_ind": 16,
+          "stream_id": 15
+        },
+        {
+          "object_ind": 17,
+          "stream_id": 16
+        },
+        {
+          "object_ind": 18,
+          "stream_id": 17
+        },
+        {
+          "object_ind": 19,
+          "stream_id": 18
+        },
+        {
+          "object_ind": 20,
+          "stream_id": 19
+        }
+      ]
+    },
+    {
+      "object_ind": 40,
+      "parent_id": 20,
+      "cache_id": 38,
+      "properties": [
+        {
+          "object_ind": 22,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 23,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 24,
+          "stream_id": 22
+        },
+        {
+          "object_ind": 25,
+          "stream_id": 23
+        },
+        {
+          "object_ind": 26,
+          "stream_id": 24
+        },
+        {
+          "object_ind": 27,
+          "stream_id": 25
+        },
+        {
+          "object_ind": 28,
+          "stream_id": 26
+        },
+        {
+          "object_ind": 29,
+          "stream_id": 27
+        },
+        {
+          "object_ind": 30,
+          "stream_id": 28
+        },
+        {
+          "object_ind": 31,
+          "stream_id": 29
+        },
+        {
+          "object_ind": 32,
+          "stream_id": 30
+        },
+        {
+          "object_ind": 33,
+          "stream_id": 31
+        },
+        {
+          "object_ind": 34,
+          "stream_id": 32
+        },
+        {
+          "object_ind": 35,
+          "stream_id": 33
+        },
+        {
+          "object_ind": 36,
+          "stream_id": 34
+        },
+        {
+          "object_ind": 37,
+          "stream_id": 35
+        },
+        {
+          "object_ind": 38,
+          "stream_id": 36
+        },
+        {
+          "object_ind": 39,
+          "stream_id": 37
+        }
+      ]
+    },
+    {
+      "object_ind": 41,
+      "parent_id": 38,
+      "cache_id": 38,
+      "properties": []
+    },
+    {
+      "object_ind": 52,
+      "parent_id": 38,
+      "cache_id": 48,
+      "properties": [
+        {
+          "object_ind": 42,
+          "stream_id": 38
+        },
+        {
+          "object_ind": 43,
+          "stream_id": 39
+        },
+        {
+          "object_ind": 44,
+          "stream_id": 40
+        },
+        {
+          "object_ind": 45,
+          "stream_id": 41
+        },
+        {
+          "object_ind": 46,
+          "stream_id": 42
+        },
+        {
+          "object_ind": 47,
+          "stream_id": 43
+        },
+        {
+          "object_ind": 48,
+          "stream_id": 44
+        },
+        {
+          "object_ind": 49,
+          "stream_id": 45
+        },
+        {
+          "object_ind": 50,
+          "stream_id": 46
+        },
+        {
+          "object_ind": 51,
+          "stream_id": 47
+        }
+      ]
+    },
+    {
+      "object_ind": 71,
+      "parent_id": 48,
+      "cache_id": 65,
+      "properties": [
+        {
+          "object_ind": 53,
+          "stream_id": 48
+        },
+        {
+          "object_ind": 54,
+          "stream_id": 49
+        },
+        {
+          "object_ind": 55,
+          "stream_id": 50
+        },
+        {
+          "object_ind": 56,
+          "stream_id": 51
+        },
+        {
+          "object_ind": 57,
+          "stream_id": 52
+        },
+        {
+          "object_ind": 58,
+          "stream_id": 53
+        },
+        {
+          "object_ind": 59,
+          "stream_id": 54
+        },
+        {
+          "object_ind": 60,
+          "stream_id": 55
+        },
+        {
+          "object_ind": 61,
+          "stream_id": 56
+        },
+        {
+          "object_ind": 62,
+          "stream_id": 57
+        },
+        {
+          "object_ind": 63,
+          "stream_id": 58
+        },
+        {
+          "object_ind": 64,
+          "stream_id": 59
+        },
+        {
+          "object_ind": 65,
+          "stream_id": 60
+        },
+        {
+          "object_ind": 66,
+          "stream_id": 61
+        },
+        {
+          "object_ind": 67,
+          "stream_id": 62
+        },
+        {
+          "object_ind": 68,
+          "stream_id": 63
+        },
+        {
+          "object_ind": 69,
+          "stream_id": 64
+        },
+        {
+          "object_ind": 70,
+          "stream_id": 65
+        }
+      ]
+    },
+    {
+      "object_ind": 73,
+      "parent_id": 20,
+      "cache_id": 20,
+      "properties": []
+    },
+    {
+      "object_ind": 74,
+      "parent_id": 20,
+      "cache_id": 20,
+      "properties": []
+    },
+    {
+      "object_ind": 86,
+      "parent_id": 20,
+      "cache_id": 31,
+      "properties": [
+        {
+          "object_ind": 75,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 76,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 77,
+          "stream_id": 22
+        },
+        {
+          "object_ind": 78,
+          "stream_id": 23
+        },
+        {
+          "object_ind": 79,
+          "stream_id": 24
+        },
+        {
+          "object_ind": 80,
+          "stream_id": 25
+        },
+        {
+          "object_ind": 81,
+          "stream_id": 26
+        },
+        {
+          "object_ind": 82,
+          "stream_id": 27
+        },
+        {
+          "object_ind": 83,
+          "stream_id": 28
+        },
+        {
+          "object_ind": 84,
+          "stream_id": 29
+        },
+        {
+          "object_ind": 85,
+          "stream_id": 30
+        }
+      ]
+    },
+    {
+      "object_ind": 94,
+      "parent_id": 31,
+      "cache_id": 38,
+      "properties": [
+        {
+          "object_ind": 87,
+          "stream_id": 31
+        },
+        {
+          "object_ind": 88,
+          "stream_id": 32
+        },
+        {
+          "object_ind": 89,
+          "stream_id": 33
+        },
+        {
+          "object_ind": 90,
+          "stream_id": 34
+        },
+        {
+          "object_ind": 91,
+          "stream_id": 35
+        },
+        {
+          "object_ind": 92,
+          "stream_id": 36
+        },
+        {
+          "object_ind": 93,
+          "stream_id": 37
+        }
+      ]
+    },
+    {
+      "object_ind": 95,
+      "parent_id": 38,
+      "cache_id": 38,
+      "properties": []
+    },
+    {
+      "object_ind": 97,
+      "parent_id": 20,
+      "cache_id": 20,
+      "properties": []
+    },
+    {
+      "object_ind": 119,
+      "parent_id": 20,
+      "cache_id": 38,
+      "properties": [
+        {
+          "object_ind": 99,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 100,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 101,
+          "stream_id": 22
+        },
+        {
+          "object_ind": 102,
+          "stream_id": 23
+        },
+        {
+          "object_ind": 103,
+          "stream_id": 24
+        },
+        {
+          "object_ind": 104,
+          "stream_id": 25
+        },
+        {
+          "object_ind": 105,
+          "stream_id": 26
+        },
+        {
+          "object_ind": 106,
+          "stream_id": 27
+        },
+        {
+          "object_ind": 107,
+          "stream_id": 28
+        },
+        {
+          "object_ind": 108,
+          "stream_id": 29
+        },
+        {
+          "object_ind": 109,
+          "stream_id": 30
+        },
+        {
+          "object_ind": 110,
+          "stream_id": 31
+        },
+        {
+          "object_ind": 111,
+          "stream_id": 32
+        },
+        {
+          "object_ind": 112,
+          "stream_id": 33
+        },
+        {
+          "object_ind": 113,
+          "stream_id": 34
+        },
+        {
+          "object_ind": 114,
+          "stream_id": 35
+        },
+        {
+          "object_ind": 115,
+          "stream_id": 36
+        },
+        {
+          "object_ind": 116,
+          "stream_id": 37
+        },
+        {
+          "object_ind": 117,
+          "stream_id": 38
+        },
+        {
+          "object_ind": 118,
+          "stream_id": 39
+        }
+      ]
+    },
+    {
+      "object_ind": 120,
+      "parent_id": 40,
+      "cache_id": 38,
+      "properties": []
+    },
+    {
+      "object_ind": 200,
+      "parent_id": 40,
+      "cache_id": 88,
+      "properties": [
+        {
+          "object_ind": 121,
+          "stream_id": 40
+        },
+        {
+          "object_ind": 122,
+          "stream_id": 41
+        },
+        {
+          "object_ind": 123,
+          "stream_id": 42
+        },
+        {
+          "object_ind": 124,
+          "stream_id": 43
+        },
+        {
+          "object_ind": 125,
+          "stream_id": 44
+        },
+        {
+          "object_ind": 126,
+          "stream_id": 45
+        },
+        {
+          "object_ind": 127,
+          "stream_id": 46
+        },
+        {
+          "object_ind": 128,
+          "stream_id": 47
+        },
+        {
+          "object_ind": 129,
+          "stream_id": 48
+        },
+        {
+          "object_ind": 130,
+          "stream_id": 49
+        },
+        {
+          "object_ind": 131,
+          "stream_id": 50
+        },
+        {
+          "object_ind": 132,
+          "stream_id": 51
+        },
+        {
+          "object_ind": 133,
+          "stream_id": 52
+        },
+        {
+          "object_ind": 134,
+          "stream_id": 53
+        },
+        {
+          "object_ind": 135,
+          "stream_id": 54
+        },
+        {
+          "object_ind": 136,
+          "stream_id": 55
+        },
+        {
+          "object_ind": 137,
+          "stream_id": 56
+        },
+        {
+          "object_ind": 138,
+          "stream_id": 57
+        },
+        {
+          "object_ind": 139,
+          "stream_id": 58
+        },
+        {
+          "object_ind": 140,
+          "stream_id": 59
+        },
+        {
+          "object_ind": 141,
+          "stream_id": 60
+        },
+        {
+          "object_ind": 142,
+          "stream_id": 61
+        },
+        {
+          "object_ind": 143,
+          "stream_id": 62
+        },
+        {
+          "object_ind": 144,
+          "stream_id": 63
+        },
+        {
+          "object_ind": 145,
+          "stream_id": 64
+        },
+        {
+          "object_ind": 146,
+          "stream_id": 65
+        },
+        {
+          "object_ind": 147,
+          "stream_id": 66
+        },
+        {
+          "object_ind": 148,
+          "stream_id": 67
+        },
+        {
+          "object_ind": 149,
+          "stream_id": 68
+        },
+        {
+          "object_ind": 150,
+          "stream_id": 69
+        },
+        {
+          "object_ind": 151,
+          "stream_id": 70
+        },
+        {
+          "object_ind": 152,
+          "stream_id": 71
+        },
+        {
+          "object_ind": 153,
+          "stream_id": 72
+        },
+        {
+          "object_ind": 154,
+          "stream_id": 73
+        },
+        {
+          "object_ind": 155,
+          "stream_id": 74
+        },
+        {
+          "object_ind": 156,
+          "stream_id": 75
+        },
+        {
+          "object_ind": 157,
+          "stream_id": 76
+        },
+        {
+          "object_ind": 158,
+          "stream_id": 77
+        },
+        {
+          "object_ind": 159,
+          "stream_id": 78
+        },
+        {
+          "object_ind": 160,
+          "stream_id": 79
+        },
+        {
+          "object_ind": 161,
+          "stream_id": 80
+        },
+        {
+          "object_ind": 162,
+          "stream_id": 81
+        },
+        {
+          "object_ind": 163,
+          "stream_id": 82
+        },
+        {
+          "object_ind": 164,
+          "stream_id": 83
+        },
+        {
+          "object_ind": 165,
+          "stream_id": 84
+        },
+        {
+          "object_ind": 166,
+          "stream_id": 85
+        },
+        {
+          "object_ind": 167,
+          "stream_id": 86
+        },
+        {
+          "object_ind": 168,
+          "stream_id": 87
+        },
+        {
+          "object_ind": 169,
+          "stream_id": 88
+        },
+        {
+          "object_ind": 170,
+          "stream_id": 89
+        },
+        {
+          "object_ind": 171,
+          "stream_id": 90
+        },
+        {
+          "object_ind": 172,
+          "stream_id": 91
+        },
+        {
+          "object_ind": 173,
+          "stream_id": 92
+        },
+        {
+          "object_ind": 174,
+          "stream_id": 93
+        },
+        {
+          "object_ind": 175,
+          "stream_id": 94
+        },
+        {
+          "object_ind": 176,
+          "stream_id": 95
+        },
+        {
+          "object_ind": 177,
+          "stream_id": 96
+        },
+        {
+          "object_ind": 178,
+          "stream_id": 97
+        },
+        {
+          "object_ind": 179,
+          "stream_id": 98
+        },
+        {
+          "object_ind": 180,
+          "stream_id": 99
+        },
+        {
+          "object_ind": 181,
+          "stream_id": 100
+        },
+        {
+          "object_ind": 182,
+          "stream_id": 101
+        },
+        {
+          "object_ind": 183,
+          "stream_id": 102
+        },
+        {
+          "object_ind": 184,
+          "stream_id": 103
+        },
+        {
+          "object_ind": 185,
+          "stream_id": 104
+        },
+        {
+          "object_ind": 186,
+          "stream_id": 105
+        },
+        {
+          "object_ind": 187,
+          "stream_id": 106
+        },
+        {
+          "object_ind": 188,
+          "stream_id": 107
+        },
+        {
+          "object_ind": 189,
+          "stream_id": 108
+        },
+        {
+          "object_ind": 190,
+          "stream_id": 109
+        },
+        {
+          "object_ind": 191,
+          "stream_id": 110
+        },
+        {
+          "object_ind": 192,
+          "stream_id": 111
+        },
+        {
+          "object_ind": 193,
+          "stream_id": 112
+        },
+        {
+          "object_ind": 194,
+          "stream_id": 113
+        },
+        {
+          "object_ind": 195,
+          "stream_id": 114
+        },
+        {
+          "object_ind": 196,
+          "stream_id": 115
+        },
+        {
+          "object_ind": 197,
+          "stream_id": 116
+        },
+        {
+          "object_ind": 198,
+          "stream_id": 117
+        },
+        {
+          "object_ind": 199,
+          "stream_id": 118
+        }
+      ]
+    },
+    {
+      "object_ind": 215,
+      "parent_id": 20,
+      "cache_id": 27,
+      "properties": [
+        {
+          "object_ind": 202,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 203,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 204,
+          "stream_id": 22
+        },
+        {
+          "object_ind": 205,
+          "stream_id": 23
+        },
+        {
+          "object_ind": 206,
+          "stream_id": 24
+        },
+        {
+          "object_ind": 207,
+          "stream_id": 25
+        },
+        {
+          "object_ind": 208,
+          "stream_id": 26
+        },
+        {
+          "object_ind": 209,
+          "stream_id": 27
+        },
+        {
+          "object_ind": 210,
+          "stream_id": 28
+        },
+        {
+          "object_ind": 211,
+          "stream_id": 29
+        },
+        {
+          "object_ind": 212,
+          "stream_id": 30
+        },
+        {
+          "object_ind": 213,
+          "stream_id": 31
+        },
+        {
+          "object_ind": 214,
+          "stream_id": 32
+        }
+      ]
+    },
+    {
+      "object_ind": 235,
+      "parent_id": 20,
+      "cache_id": 38,
+      "properties": [
+        {
+          "object_ind": 217,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 218,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 219,
+          "stream_id": 22
+        },
+        {
+          "object_ind": 220,
+          "stream_id": 23
+        },
+        {
+          "object_ind": 221,
+          "stream_id": 24
+        },
+        {
+          "object_ind": 222,
+          "stream_id": 25
+        },
+        {
+          "object_ind": 223,
+          "stream_id": 26
+        },
+        {
+          "object_ind": 224,
+          "stream_id": 27
+        },
+        {
+          "object_ind": 225,
+          "stream_id": 28
+        },
+        {
+          "object_ind": 226,
+          "stream_id": 29
+        },
+        {
+          "object_ind": 227,
+          "stream_id": 30
+        },
+        {
+          "object_ind": 228,
+          "stream_id": 31
+        },
+        {
+          "object_ind": 229,
+          "stream_id": 32
+        },
+        {
+          "object_ind": 230,
+          "stream_id": 33
+        },
+        {
+          "object_ind": 231,
+          "stream_id": 34
+        },
+        {
+          "object_ind": 232,
+          "stream_id": 35
+        },
+        {
+          "object_ind": 233,
+          "stream_id": 36
+        },
+        {
+          "object_ind": 234,
+          "stream_id": 37
+        }
+      ]
+    },
+    {
+      "object_ind": 240,
+      "parent_id": 38,
+      "cache_id": 42,
+      "properties": [
+        {
+          "object_ind": 236,
+          "stream_id": 38
+        },
+        {
+          "object_ind": 237,
+          "stream_id": 39
+        },
+        {
+          "object_ind": 238,
+          "stream_id": 40
+        },
+        {
+          "object_ind": 239,
+          "stream_id": 41
+        }
+      ]
+    },
+    {
+      "object_ind": 268,
+      "parent_id": 42,
+      "cache_id": 69,
+      "properties": [
+        {
+          "object_ind": 241,
+          "stream_id": 42
+        },
+        {
+          "object_ind": 242,
+          "stream_id": 43
+        },
+        {
+          "object_ind": 243,
+          "stream_id": 44
+        },
+        {
+          "object_ind": 244,
+          "stream_id": 45
+        },
+        {
+          "object_ind": 245,
+          "stream_id": 46
+        },
+        {
+          "object_ind": 246,
+          "stream_id": 47
+        },
+        {
+          "object_ind": 247,
+          "stream_id": 48
+        },
+        {
+          "object_ind": 248,
+          "stream_id": 49
+        },
+        {
+          "object_ind": 249,
+          "stream_id": 50
+        },
+        {
+          "object_ind": 250,
+          "stream_id": 51
+        },
+        {
+          "object_ind": 251,
+          "stream_id": 52
+        },
+        {
+          "object_ind": 252,
+          "stream_id": 53
+        },
+        {
+          "object_ind": 253,
+          "stream_id": 54
+        },
+        {
+          "object_ind": 254,
+          "stream_id": 55
+        },
+        {
+          "object_ind": 255,
+          "stream_id": 56
+        },
+        {
+          "object_ind": 256,
+          "stream_id": 57
+        },
+        {
+          "object_ind": 257,
+          "stream_id": 58
+        },
+        {
+          "object_ind": 258,
+          "stream_id": 59
+        },
+        {
+          "object_ind": 259,
+          "stream_id": 60
+        },
+        {
+          "object_ind": 260,
+          "stream_id": 61
+        },
+        {
+          "object_ind": 261,
+          "stream_id": 62
+        },
+        {
+          "object_ind": 262,
+          "stream_id": 63
+        },
+        {
+          "object_ind": 263,
+          "stream_id": 64
+        },
+        {
+          "object_ind": 264,
+          "stream_id": 65
+        },
+        {
+          "object_ind": 265,
+          "stream_id": 66
+        },
+        {
+          "object_ind": 266,
+          "stream_id": 67
+        },
+        {
+          "object_ind": 267,
+          "stream_id": 68
+        }
+      ]
+    },
+    {
+      "object_ind": 273,
+      "parent_id": 20,
+      "cache_id": 23,
+      "properties": [
+        {
+          "object_ind": 270,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 271,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 272,
+          "stream_id": 22
+        }
+      ]
+    },
+    {
+      "object_ind": 280,
+      "parent_id": 23,
+      "cache_id": 29,
+      "properties": [
+        {
+          "object_ind": 274,
+          "stream_id": 23
+        },
+        {
+          "object_ind": 275,
+          "stream_id": 24
+        },
+        {
+          "object_ind": 276,
+          "stream_id": 25
+        },
+        {
+          "object_ind": 277,
+          "stream_id": 26
+        },
+        {
+          "object_ind": 278,
+          "stream_id": 27
+        },
+        {
+          "object_ind": 279,
+          "stream_id": 28
+        }
+      ]
+    },
+    {
+      "object_ind": 282,
+      "parent_id": 29,
+      "cache_id": 30,
+      "properties": [
+        {
+          "object_ind": 281,
+          "stream_id": 29
+        }
+      ]
+    },
+    {
+      "object_ind": 294,
+      "parent_id": 48,
+      "cache_id": 57,
+      "properties": [
+        {
+          "object_ind": 285,
+          "stream_id": 48
+        },
+        {
+          "object_ind": 286,
+          "stream_id": 49
+        },
+        {
+          "object_ind": 287,
+          "stream_id": 50
+        },
+        {
+          "object_ind": 288,
+          "stream_id": 51
+        },
+        {
+          "object_ind": 289,
+          "stream_id": 52
+        },
+        {
+          "object_ind": 290,
+          "stream_id": 53
+        },
+        {
+          "object_ind": 291,
+          "stream_id": 54
+        },
+        {
+          "object_ind": 292,
+          "stream_id": 55
+        },
+        {
+          "object_ind": 293,
+          "stream_id": 56
+        }
+      ]
+    },
+    {
+      "object_ind": 314,
+      "parent_id": 57,
+      "cache_id": 75,
+      "properties": [
+        {
+          "object_ind": 295,
+          "stream_id": 57
+        },
+        {
+          "object_ind": 296,
+          "stream_id": 58
+        },
+        {
+          "object_ind": 297,
+          "stream_id": 59
+        },
+        {
+          "object_ind": 298,
+          "stream_id": 60
+        },
+        {
+          "object_ind": 299,
+          "stream_id": 61
+        },
+        {
+          "object_ind": 300,
+          "stream_id": 62
+        },
+        {
+          "object_ind": 301,
+          "stream_id": 63
+        },
+        {
+          "object_ind": 302,
+          "stream_id": 64
+        },
+        {
+          "object_ind": 303,
+          "stream_id": 65
+        },
+        {
+          "object_ind": 304,
+          "stream_id": 66
+        },
+        {
+          "object_ind": 305,
+          "stream_id": 67
+        },
+        {
+          "object_ind": 306,
+          "stream_id": 68
+        },
+        {
+          "object_ind": 307,
+          "stream_id": 69
+        },
+        {
+          "object_ind": 308,
+          "stream_id": 70
+        },
+        {
+          "object_ind": 309,
+          "stream_id": 71
+        },
+        {
+          "object_ind": 310,
+          "stream_id": 72
+        },
+        {
+          "object_ind": 311,
+          "stream_id": 73
+        },
+        {
+          "object_ind": 312,
+          "stream_id": 74
+        },
+        {
+          "object_ind": 313,
+          "stream_id": 75
+        }
+      ]
+    },
+    {
+      "object_ind": 319,
+      "parent_id": 20,
+      "cache_id": 23,
+      "properties": [
+        {
+          "object_ind": 316,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 317,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 318,
+          "stream_id": 22
+        }
+      ]
+    },
+    {
+      "object_ind": 321,
+      "parent_id": 23,
+      "cache_id": 24,
+      "properties": [
+        {
+          "object_ind": 320,
+          "stream_id": 23
+        }
+      ]
+    },
+    {
+      "object_ind": 336,
+      "parent_id": 24,
+      "cache_id": 35,
+      "properties": [
+        {
+          "object_ind": 322,
+          "stream_id": 24
+        },
+        {
+          "object_ind": 323,
+          "stream_id": 25
+        },
+        {
+          "object_ind": 324,
+          "stream_id": 26
+        },
+        {
+          "object_ind": 325,
+          "stream_id": 27
+        },
+        {
+          "object_ind": 326,
+          "stream_id": 28
+        },
+        {
+          "object_ind": 327,
+          "stream_id": 29
+        },
+        {
+          "object_ind": 328,
+          "stream_id": 30
+        },
+        {
+          "object_ind": 329,
+          "stream_id": 31
+        },
+        {
+          "object_ind": 330,
+          "stream_id": 32
+        },
+        {
+          "object_ind": 331,
+          "stream_id": 33
+        },
+        {
+          "object_ind": 332,
+          "stream_id": 34
+        },
+        {
+          "object_ind": 333,
+          "stream_id": 35
+        },
+        {
+          "object_ind": 334,
+          "stream_id": 36
+        },
+        {
+          "object_ind": 335,
+          "stream_id": 37
+        }
+      ]
+    },
+    {
+      "object_ind": 339,
+      "parent_id": 24,
+      "cache_id": 25,
+      "properties": [
+        {
+          "object_ind": 338,
+          "stream_id": 24
+        }
+      ]
+    },
+    {
+      "object_ind": 343,
+      "parent_id": 23,
+      "cache_id": 25,
+      "properties": [
+        {
+          "object_ind": 341,
+          "stream_id": 23
+        },
+        {
+          "object_ind": 342,
+          "stream_id": 24
+        }
+      ]
+    },
+    {
+      "object_ind": 345,
+      "parent_id": 23,
+      "cache_id": 23,
+      "properties": []
+    },
+    {
+      "object_ind": 348,
+      "parent_id": 24,
+      "cache_id": 25,
+      "properties": [
+        {
+          "object_ind": 347,
+          "stream_id": 24
+        }
+      ]
+    },
+    {
+      "object_ind": 353,
+      "parent_id": 20,
+      "cache_id": 23,
+      "properties": [
+        {
+          "object_ind": 350,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 351,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 352,
+          "stream_id": 22
+        }
+      ]
+    },
+    {
+      "object_ind": 360,
+      "parent_id": 20,
+      "cache_id": 25,
+      "properties": [
+        {
+          "object_ind": 355,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 356,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 357,
+          "stream_id": 22
+        },
+        {
+          "object_ind": 358,
+          "stream_id": 23
+        },
+        {
+          "object_ind": 359,
+          "stream_id": 24
+        }
+      ]
+    },
+    {
+      "object_ind": 364,
+      "parent_id": 20,
+      "cache_id": 22,
+      "properties": [
+        {
+          "object_ind": 362,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 363,
+          "stream_id": 21
+        }
+      ]
+    },
+    {
+      "object_ind": 374,
+      "parent_id": 20,
+      "cache_id": 23,
+      "properties": [
+        {
+          "object_ind": 371,
+          "stream_id": 20
+        },
+        {
+          "object_ind": 372,
+          "stream_id": 21
+        },
+        {
+          "object_ind": 373,
+          "stream_id": 22
+        }
+      ]
+    },
+    {
+      "object_ind": 375,
+      "parent_id": 23,
+      "cache_id": 23,
+      "properties": []
+    }
+  ]
+}
